@@ -17,7 +17,7 @@ The mainland China and global monthly  tourist arrival volumes for Macau were co
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
-* Rob Law, Gang Li, Davis Fong, Xin Han (2019). Tourism Demand Forecasting: A Deep Learning Approach.  Research
+* TO BE ADDED (2019). Tourism Demand Forecasting: A Deep Learning Approach.  Research
 
 `BibTex` information:
 
@@ -27,14 +27,14 @@ If you use it for a scientific publication, please include a reference to this p
     issn = {XXX-XX},
     doi = {xxxxxx},
     journal = {Submitted},
-    author = {Law, Rob and Li, Gang and Fong, Davis and Han, Xin},
+    author = {TO BE ADDED},
     month = xxx,
     year = {2019},
     keywords = {Big data analytics,Deep Learning,Search query data,Tourism demand forecast},
     pages = {XX-XX},
     }
 
-You can feel free to use the datasets (for academic purpose only) at your own risk. For other purposes, please contact **A/Prof. Gang Li** (gangli AT tulip.org.au).
+You can feel free to use the datasets (for academic purpose only) at your own risk. For other purposes, please contact ** TO BE ADDED **.
 
 
 ---
@@ -207,5 +207,5 @@ The following tables show all features in Macau2018 Dataset.
 | Date Published | 2019-1-14  |
 | Date Updated |  2018-9-27 |
 | Portal | https://github.com/tulip-lab/open-data |
-| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
+| Publisher | TO BE ADDED |
 
