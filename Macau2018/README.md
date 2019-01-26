@@ -206,6 +206,6 @@ The following tables show all features in Macau2018 Dataset.
 | Update Frequency | annually |
 | Date Published | 2019-1-14  |
 | Date Updated |  2018-9-27 |
-| Portal | https://github.com/tulip-lab/open-data/Macau2018 |
+| Portal | https://github.com/tulip-lab/open-data |
 | Publisher |[TULIP Lab](http://www.tulip.org.au/) |
 
