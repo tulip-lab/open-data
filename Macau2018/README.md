@@ -17,7 +17,7 @@ The mainland China and global monthly  tourist arrival volumes for Macau were co
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
-* Rob Law, Gang Li, Davis Fong, Xin Han (2019). Tourism Demand Forecasting: A Deep Learning Approach. Annals of Tourism Research
+* Rob Law, Gang Li, Davis Fong, Xin Han (2019). Tourism Demand Forecasting: A Deep Learning Approach.  Research
 
 `BibTex` information:
 
@@ -26,7 +26,7 @@ If you use it for a scientific publication, please include a reference to this p
     volume = {XX},
     issn = {XXX-XX},
     doi = {xxxxxx},
-    journal = {Annals of Tourism Research},
+    journal = {Submitted},
     author = {Law, Rob and Li, Gang and Fong, Davis and Han, Xin},
     month = xxx,
     year = {2019},
