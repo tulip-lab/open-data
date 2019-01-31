@@ -1,15 +1,29 @@
-## About the Dataset
+# `Macau2018`
 ---
 
-This dataset contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` from January 2011 to August 2018. There are 259 features in total:
+| Field | Value |
+| --- | --- |
+| Title | Macau2018 |
+| Type | Dataset |
+| Language | English & Chinese (Simplified) |
+| License |   |
+| Data Status | Static |
+| Update Frequency | NO |
+| Date Published | 2019-01-31  |
+| Date Updated |  2019-01-31 |
+| Portal | https://github.com/tulip-lab/open-data |
+| URL | https://github.com/tulip-lab/open-data/tree/master/Macau2018|
+| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
+| Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
+
+This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` from January 2011 to August 2018. There are 259 features in total:
 
 * The first column is the date
 * The second and the third columns are the arrival data
-* The column (#4-#214) are 211 related keywords are obtained from [Google Trends](https://trends.google.com) and 
-* The rest 45 columns are keywords collected from [Baidu Index](https://zhishu.baidu.com).
+* The column (#4-#214) are SII for 211 related keywords are obtained from [Google Trends](https://trends.google.com), and 
+* The rest 45 columns are SII for keywords collected from [Baidu Index](https://zhishu.baidu.com).
 
-The mainland China and global monthly  tourist arrival volumes for Macau were collected from [Statistics and Census Services（DSEC）](https://www.dsec.gov.mo/Statistic.aspx?NodeGuid=251baebb-6e5b-4452-8ad1-7768eafc99ed) of the Macau government, while those Search Intensity Indices (SII) data were collected from [Google Trends](https://trends.google.com) and [Baidu Index](https://zhishu.baidu.com) using a developed tool.
-
+The mainland China and global monthly  tourist arrival volumes for Macau were collected from [Statistics and Census Services（DSEC）](https://www.dsec.gov.mo/Statistic.aspx?NodeGuid=251baebb-6e5b-4452-8ad1-7768eafc99ed) of the Macau government, while those Search Intensity Indices (SII) data were collected from [Google Trends](https://trends.google.com) and [Baidu Index](https://zhishu.baidu.com) using a developed tool (to be released at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code)).
 
 ---
 ### Citations
@@ -17,7 +31,7 @@ The mainland China and global monthly  tourist arrival volumes for Macau were co
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
-* TO BE ADDED (2019). Tourism Demand Forecasting: A Deep Learning Approach.  Research
+* Rob Law, Gang Li, Davis Fong, Xin Han (2019). Tourism Demand Forecasting: A Deep Learning Approach. Annals of Tourism Research
 
 `BibTex` information:
 
@@ -26,16 +40,17 @@ If you use it for a scientific publication, please include a reference to this p
     volume = {XX},
     issn = {XXX-XX},
     doi = {xxxxxx},
-    journal = {Submitted},
-    author = {TO BE ADDED},
+    journal = {Annals of Tourism Research},
+    author = {Law, Rob and Li, Gang and Fong, Davis and Han, Xin},
     month = xxx,
     year = {2019},
-    keywords = {Big data analytics,Deep Learning,Search query data,Tourism demand forecast},
+    keywords = {Big data analytics, Deep Learning, Search query data,Tourism Demand Forecast},
     pages = {XX-XX},
     }
 
-You can feel free to use the datasets (for academic purpose only) at your own risk. For other purposes, please contact ** TO BE ADDED **.
+The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
 
+* [DTM](https://github.com/tulip-lab/open-code/tree/master/DTM): A Deep Learning Package for Tourism Demand Forecasting
 
 ---
 ### Data Description
@@ -191,21 +206,5 @@ The following tables show all features in Macau2018 Dataset.
 | 236 | 澳门威尼斯人    | non-null    | int64     | 259 | 香港酒店         | non-null    | int64     |
 | 237 | 澳门币          | non-null    | int64     |     |                  |             |           |
 
----
-### **Additional information**
----
 
-
-| Field | Value |
-| --- | --- |
-| Title | Macau2018 |
-| Type | Dataset |
-| Language | English & Chinese (Simplified) |
-| License |   |
-| Data Status | static |
-| Update Frequency | annually |
-| Date Published | 2019-1-14  |
-| Date Updated |  2018-9-27 |
-| Portal | https://github.com/tulip-lab/open-data |
-| Publisher | TO BE ADDED |
 
