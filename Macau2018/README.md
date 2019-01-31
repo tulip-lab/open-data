@@ -1,7 +1,6 @@
 # `Macau2018`
 ---
 
-
 | Field | Value |
 | --- | --- |
 | Title | Macau2018 |
@@ -25,7 +24,6 @@ This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Sea
 * The rest 45 columns are SII for keywords collected from [Baidu Index](https://zhishu.baidu.com).
 
 The mainland China and global monthly  tourist arrival volumes for Macau were collected from [Statistics and Census Services（DSEC）](https://www.dsec.gov.mo/Statistic.aspx?NodeGuid=251baebb-6e5b-4452-8ad1-7768eafc99ed) of the Macau government, while those Search Intensity Indices (SII) data were collected from [Google Trends](https://trends.google.com) and [Baidu Index](https://zhishu.baidu.com) using a developed tool (to be released at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code)).
-
 
 ---
 ### Citations
@@ -52,10 +50,7 @@ If you use it for a scientific publication, please include a reference to this p
 
 The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
 
-* : [DTM]() 
-
-You can feel free to use the datasets (for academic purpose only) at your own risk. For other purposes, please contact **A/Prof. Gang Li** (gangli AT tulip.org.au).
-
+* : [DTM](https://github.com/tulip-lab/open-code/tree/master/DTM) 
 
 ---
 ### Data Description

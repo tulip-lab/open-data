@@ -10,9 +10,7 @@ Prepared by [TULIP Lab](http://www.tulip.org.au), Australia
 
 ---
 
-## Content
-
-### Data Sets
+## Data Sets
 
 * [`Macau2018`](Macau2018)
 * ...
