@@ -10,6 +10,26 @@ This dataset contains the `monthly tourist arrival volumes` and `Search Intensit
 
 The mainland China and global monthly  tourist arrival volumes for Macau were collected from [Statistics and Census Services（DSEC）](https://www.dsec.gov.mo/Statistic.aspx?NodeGuid=251baebb-6e5b-4452-8ad1-7768eafc99ed) of the Macau government, while those Search Intensity Indices (SII) data were collected from [Google Trends](https://trends.google.com) and [Baidu Index](https://zhishu.baidu.com) using a developed tool.
 
+---
+### **Additional information**
+---
+
+
+| Field | Value |
+| --- | --- |
+| Title | Macau2018 |
+| Type | Dataset |
+| Language | English & Chinese (Simplified) |
+| License |   |
+| Data Status | static |
+| Update Frequency | annually |
+| Date Published | 2019-1-14  |
+| Date Updated |  2018-9-27 |
+| Portal | https://github.com/tulip-lab/open-data/Macau2018 |
+| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
+
+
+
 
 ---
 ### Citations
@@ -190,22 +210,4 @@ The following tables show all features in Macau2018 Dataset.
 | 235 | 澳门天气        | non-null    | int64     | 258 | 香港赌场         | non-null    | int64     |
 | 236 | 澳门威尼斯人    | non-null    | int64     | 259 | 香港酒店         | non-null    | int64     |
 | 237 | 澳门币          | non-null    | int64     |     |                  |             |           |
-
----
-### **Additional information**
----
-
-
-| Field | Value |
-| --- | --- |
-| Title | Macau2018 |
-| Type | Dataset |
-| Language | English & Chinese (Simplified) |
-| License |   |
-| Data Status | static |
-| Update Frequency | annually |
-| Date Published | 2019-1-14  |
-| Date Updated |  2018-9-27 |
-| Portal | https://github.com/tulip-lab/open-data/Macau2018 |
-| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
 
