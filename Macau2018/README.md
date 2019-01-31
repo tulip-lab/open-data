@@ -50,7 +50,7 @@ If you use it for a scientific publication, please include a reference to this p
 
 The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
 
-* : [DTM](https://github.com/tulip-lab/open-code/tree/master/DTM) 
+* [DTM](https://github.com/tulip-lab/open-code/tree/master/DTM): A Deep Learning Package for Tourism Demand Forecasting
 
 ---
 ### Data Description
