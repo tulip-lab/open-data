@@ -18,8 +18,8 @@
 
 This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` from January 2011 to August 2018. There are 259 features in total:
 
-* The first column is the date
-* The second and the third columns are the arrival data
+* The first column is the date/month
+* The second and the third columns are the arrival volume
 * The column (#4-#214) are SII for 211 related keywords are obtained from [Google Trends](https://trends.google.com), and 
 * The rest 45 columns are SII for keywords collected from [Baidu Index](https://zhishu.baidu.com).
 
@@ -39,9 +39,9 @@ If you use it for a scientific publication, please include a reference to this p
     title = {Tourism Demand Forecasting: A Deep Learning Approach},
     volume = {XX},
     issn = {XXX-XX},
-    doi = {xxxxxx},
+    doi = {10.1016/j.annals.2019.01.014},
     journal = {Annals of Tourism Research},
-    author = {Law, Rob and Li, Gang and Fong, Davis and Han, Xin},
+    author = {Law, Rob and Li, Gang and Fong, Davis Ka Chio and Han, Xin},
     month = xxx,
     year = {2019},
     keywords = {Big data analytics, Deep Learning, Search query data,Tourism Demand Forecast},
