@@ -18,8 +18,8 @@
 
 This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` from January 2011 to August 2018. There are 259 features in total:
 
-* The first column is the date
-* The second and the third columns are the arrival data
+* The first column is the date/month
+* The second and the third columns are the arrival volume
 * The column (#4-#214) are SII for 211 related keywords are obtained from [Google Trends](https://trends.google.com), and 
 * The rest 45 columns are SII for keywords collected from [Baidu Index](https://zhishu.baidu.com).
 
@@ -31,21 +31,20 @@ The mainland China and global monthly  tourist arrival volumes for Macau were co
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
-* Rob Law, Gang Li, Davis Fong, Xin Han (2019). Tourism Demand Forecasting: A Deep Learning Approach. Annals of Tourism Research
+* Rob Law, Gang Li, Davis Fong, Xin Han (2019). Tourism Demand Forecasting: A Deep Learning Approach. Annals of Tourism Research, Vol 75, March 2019, Page 410-423
 
 `BibTex` information:
 
     @article{LLFHDeep2019,
     title = {Tourism Demand Forecasting: A Deep Learning Approach},
-    volume = {XX},
-    issn = {XXX-XX},
-    doi = {xxxxxx},
+    volume = {75},
+    doi = {10.1016/j.annals.2019.01.014},
     journal = {Annals of Tourism Research},
-    author = {Law, Rob and Li, Gang and Fong, Davis and Han, Xin},
-    month = xxx,
+    author = {Law, Rob and Li, Gang and Fong, Davis Ka Chio and Han, Xin},
+    month = March,
     year = {2019},
     keywords = {Big data analytics, Deep Learning, Search query data,Tourism Demand Forecast},
-    pages = {XX-XX},
+    pages = {410-423},
     }
 
 The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
