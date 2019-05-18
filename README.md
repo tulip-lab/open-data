@@ -12,5 +12,5 @@ Prepared by [TULIP Lab](http://www.tulip.org.au), Australia
 
 ## Data Sets
 
-* [`Macau2018`](Macau2018): Tourism Demand Forecasting data as used in [Tourism Demand Forecasting: A Deep Learning Approach](https://doi.org/10.1016/j.annals.2019.01.014) (Annals of Tourism Research, Vol 75, March 2019, Page 410-423)
+* [`Macau2018`](Macau2018): Tourism Demand Forecasting data as used in [Tourism Demand Forecasting: A Deep Learning Approach](https://doi.org/10.1016/j.annals.2019.01.014) (**Annals of Tourism Research**, Vol 75, March 2019, Page 410-423)
 * ...
