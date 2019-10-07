@@ -26,7 +26,7 @@ This dataset `TM2015` is in the Matlab matrix format, and it contains the `matri
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
-* Wei Fan, Gang Li, Rob Law. [Analyzing Co-authoring Communities of Tourism Research Collaboration]. **Tourism Management Perspectives**, to appear 2019.
+* Wei Fan, Gang Li, Rob Law. [Analyzing Co-authoring Communities of Tourism Research Collaboration](http://www.tulip.org.au/publication). **Tourism Management Perspectives**, to appear 2019.
 
 
 
