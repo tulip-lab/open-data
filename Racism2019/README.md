@@ -16,15 +16,14 @@
 | Publisher |[TULIP Lab](http://www.tulip.org.au/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
-This dataset `Racism2019` contains the `racism-related reviews`
-available on the Tripadvisor up to February 2019.
-There are 4554 reviews in total:
+This dataset `Racism2019` contains the `racism-related reviews` available on the Tripadvisor up to February 2019. There are 4554 reviews in total:
 
 * The first row is the Title of this dataset.
 
 ---
 ### Citations
 ---
+
 
 
 ---
