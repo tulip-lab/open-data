@@ -28,20 +28,20 @@ If you use it for a scientific publication, please include a reference to this p
 
 * Wei Fan, Gang Li, Rob Law (2020). [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607). **Tourism Management Perspectives**, Vol 33, January 2020, Page 100607
 
+
 `BibTex` information:
 
-	@article{FAN2020100607,
-	title = "Analyzing co-authoring communities of tourism research collaboration",
-	journal = "Tourism Management Perspectives",
-	volume = "33",
-	pages = "100607",
-	year = "2020",
-	issn = "2211-9736",
-	doi = "https://doi.org/10.1016/j.tmp.2019.100607",
-	author = "Wei Fan and Gang Li and Rob Law",
-	keywords = "Research collaboration, Network analysis, Co-authoring community, Centrality measure, Tourism research"
-	}
-
+    @article{FANCollaboration2020,
+    title = {Analyzing co-authoring communities of tourism research collaboration},
+    volume = {33},
+    doi = {https://doi.org/10.1016/j.tmp.2019.100607},
+    journal = {Tourism Management Perspectives},
+    author = {Fan, Wei and Li, Gang and Law, Rob},
+    month = January,
+    year = {2020},
+    keywords = {Research collaboration, Network analysis, Co-authoring community, Centrality measure, Tourism research},
+    pages = {100607},
+    }
 
 
 
