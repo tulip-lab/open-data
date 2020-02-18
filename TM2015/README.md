@@ -26,10 +26,21 @@ This dataset `TM2015` is in the Matlab matrix format, and it contains the `matri
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
-* Wei Fan, Gang Li, Rob Law. [Analyzing Co-authoring Communities of Tourism Research Collaboration](http://www.tulip.org.au/publication). **Tourism Management Perspectives**, to appear 2019.
+* Wei Fan, Gang Li, Rob Law (2020). [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607). **Tourism Management Perspectives**, Vol 33, January 2020, Page 100607
 
+`BibTex` information:
 
-
+	@article{FAN2020100607,
+	title = "Analyzing co-authoring communities of tourism research collaboration",
+	journal = "Tourism Management Perspectives",
+	volume = "33",
+	pages = "100607",
+	year = "2020",
+	issn = "2211-9736",
+	doi = "https://doi.org/10.1016/j.tmp.2019.100607",
+	author = "Wei Fan and Gang Li and Rob Law",
+	keywords = "Research collaboration, Network analysis, Co-authoring community, Centrality measure, Tourism research"
+	}
 
 
 
