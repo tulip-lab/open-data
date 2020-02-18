@@ -46,5 +46,6 @@ This dataset `Racism2019` contains the `racism-related reviews` available on the
 If you use it for a scientific publication, please include a reference to this paper.
 
 
+* Shu Li, Gang Li, Rob Law, and Yin Paradies (2020). [Racism in Tourism Reviews](). **Tourism Management**, to appear 2020.
 
 ---
