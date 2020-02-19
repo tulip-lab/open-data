@@ -17,7 +17,7 @@
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
 
-This dataset `Racism2019` contains the `racism-related reviews` available on the Tripadvisor up to February 2019. There are 4554 reviews in total.
+This dataset `Racism2019` contains the `racism`-related reviews collected from the [TripAdvisor](http://www.tripadvisor.com) up to February 2019. There are 4554 reviews in total.
 
 ---
 ### Data Description
@@ -47,5 +47,21 @@ If you use it for a scientific publication, please include a reference to this p
 
 
 * Shu Li, Gang Li, Rob Law, and Yin Paradies (2020). [Racism in Tourism Reviews](). **Tourism Management**, to appear 2020.
+
+
+`BibTex` information:
+
+    @article{LLLP2020,
+    title = {Racism in Tourism Reviews},
+    volume = {XX},
+    doi = {https://doi.org/xxxxx},
+    journal = {Tourism Management},
+    author = {Li, Shu and Li, Gang and Law, Rob and Paradies, Yin},
+    month = January,
+    year = {2020},
+    keywords = {Review, Tourism, Racism},
+    pages = {XX},
+    }
+
 
 ---

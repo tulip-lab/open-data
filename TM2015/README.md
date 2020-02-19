@@ -26,7 +26,7 @@ This dataset `TM2015` is in the Matlab matrix format, and it contains the `matri
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
-* Wei Fan, Gang Li, and Rob Law (2020). [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607). **Tourism Management Perspectives**, Vol 33, January 2020, Page 100607.
+* Wei Fan, Gang Li, and Rob Law (2020). [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607). **Tourism Management Perspectives**, Vol 33, January 2020.
 
 
 `BibTex` information:
