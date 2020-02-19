@@ -17,7 +17,7 @@
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
 
-This dataset `Racism2019` contains the `racism`-related reviews collected from the [TripAdvisor](http://www.tripadvisor.com) up to February 2019. There are 4554 reviews in total.
+This dataset `Racism2019` contains the `racism`-related reviews collected from the Internet up to February 2019. There are 4554 reviews in total.
 
 ---
 ### Data Description
@@ -29,15 +29,14 @@ This dataset `Racism2019` contains the `racism`-related reviews collected from t
 
 | No| Field Name 		| Description|
 |---|---|---|
-| 1 | Venue 				| Venue of the review (e.g. a hotel, restaurant or attraction)
-| 2 | Url  				| The URL of the review |
-| 3 | Date  				| Date of experiences 
-| 4 | Continent 			| The continent information of the venue, continents are roughly divided and provided by TripAdvisor. | int64 |
-| 5 | Country 			| The country of the venue | int64 |
-| 6 | City 	 			| The city of the venue | int64 |
-| 7 | User’s Location 	| Geographic information in user’s profile | int64 |
-| 8 | Review title 		| Title of the review | int64 |
-| 9 | Review text 		| Content of the review | int64 |
+| 1 | Venue 				| Venue of the review  
+| 2 | Date  				| Date of experiences 
+| 3 | Continent 			| The continent information of the venue | int64 |
+| 4 | Country 			| The country of the venue | int64 |
+| 5 | City 	 			| The city of the venue | int64 |
+| 6 | User’s Location 	| Geographic information in user’s profile | int64 |
+| 7 | Review title 		| Title   | int64 |
+| 8 | Review text 		| Content  | int64 |
 
 
 ### Citations
