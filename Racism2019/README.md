@@ -35,8 +35,7 @@ This dataset `Racism2019` contains the `racism`-related reviews collected from t
 | 4 | Country 			| The country of the venue | int64 |
 | 5 | City 	 			| The city of the venue | int64 |
 | 6 | User’s Location 	| Geographic information in user’s profile | int64 |
-| 7 | Review title 		| Title   | int64 |
-| 8 | Review text 		| Content  | int64 |
+| 7 | Review text 		| Content  | int64 |
 
 
 ### Citations
