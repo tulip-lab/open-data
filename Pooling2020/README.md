@@ -152,7 +152,7 @@ This dataset `Pooling2020` contains the tourism arrival volume from HongKong and
 If you use it for a scientific publication, please include a reference to this paper.
 
 
-* Yishuo Zhang, Gang Li, Birgit Muskat, and Rob Law (2020). [Group Pooling For Deep Tourism Demand Forecasting](URL withhold. **Annals of Tourism**.
+* Yishuo Zhang, Gang Li, Birgit Muskat, and Rob Law (2020). [Group Pooling For Deep Tourism Demand Forecasting](URL withhold). **Annals of Tourism**.
 
 
 `BibTex` information:
