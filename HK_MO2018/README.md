@@ -1,9 +1,9 @@
-# `Pooling2020`
+# `HK_MO2018`
 ---
 
 | Field | Value |
 | --- | --- |
-| Title | Pooling2020 |
+| Title | HK_MO2018 |
 | Type | Dataset |
 | Language | English |
 | License |   |
@@ -12,12 +12,12 @@
 | Date Published | 2020-02-26  |
 | Date Updated |  2020-02-26 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/Pooling2020|
+| URL | https://github.com/tulip-lab/open-data/tree/master/HK_MO2018|
 | Publisher |[TULIP Lab](http://www.tulip.org.au/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
 
-This dataset `Pooling2020` contains the tourism arrival volume from HongKong and Macao collected from the Internet up to August 2018. There are 92 months in total for each destination.
+This dataset `HK_MO2018` contains the tourism arrival volume from HongKong and Macao collected from the Internet up to August 2018. There are 92 months in total for each destination.
 
 ---
 ### Data Description
