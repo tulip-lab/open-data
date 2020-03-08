@@ -16,8 +16,8 @@
 | Publisher |[TULIP Lab](http://www.tulip.org.au/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
-This dataset `HK-2018` contains the tourism arrival volume from HongKong collected from the Internet up to August 2018. There are 92 months in total for each destination.
-This dataset `MO-2018` contains the tourism arrival volume from Macao collected from the Internet up to August 2018. There are 92 months in total for each destination.
+This dataset `MO-2018` and `HK-2018` contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` and `HongKong` from January 2011 to August 2018.
+
 ---
 ### Data Description
 ---
