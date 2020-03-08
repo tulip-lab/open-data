@@ -18,7 +18,8 @@
 
 
 This dataset `HK-MO2018` contains the tourism arrival volume from HongKong and Macao collected from the Internet up to August 2018. There are 92 months in total for each destination.
-
+This dataset `HK-2018` contains the tourism arrival volume from HongKong collected from the Internet up to August 2018. There are 92 months in total for each destination.
+This dataset `MO-2018` contains the tourism arrival volume from Macao collected from the Internet up to August 2018. There are 92 months in total for each destination.
 ---
 ### Data Description
 ---
@@ -32,8 +33,8 @@ This dataset `HK-MO2018` contains the tourism arrival volume from HongKong and M
 | No. | Feature Name | Description | Data Type |
 |---|---|---|---|
 | 1 | Date | non-null | object |
-| 2 | Arrival (Global) | non-null | int64 |
-| 3 | Seasonality (STL Decomposed) | non-null | int64 |
+| 2 | Arrival | non-null | int64 |
+| 3 | Arrival_nor | non-null, normalised arrival volume | int64 |
 
  ####  Features from `Google Trends`.
 
