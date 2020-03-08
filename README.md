@@ -6,7 +6,7 @@
 
 Prepared by [TULIP Lab](http://www.tulip.org.au), Australia
 
-- 2020 maintainers: [Shu Li](https://github.com/lishusmile)
+- 2020 maintainers: [Shu Li](https://github.com/lishusmile), [Chris Zhang](https://github.com/chriszhangpodo) 
 - 2019 maintainers: [Xin Han](https://github.com/xhan97), [Shu Li](https://github.com/lishusmile)
 
 ---
