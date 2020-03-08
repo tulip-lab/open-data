@@ -12,7 +12,7 @@
 | Date Published | 2020-02-26  |
 | Date Updated |  2020-02-26 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/HK_MO2018|
+| URL | https://github.com/tulip-lab/open-data/tree/master/HK-MO2018|
 | Publisher |[TULIP Lab](http://www.tulip.org.au/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
