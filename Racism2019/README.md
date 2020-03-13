@@ -20,6 +20,30 @@
 This dataset `Racism2019` contains the `racism`-related reviews collected from the Internet up to February 2019. There are 4554 reviews in total.
 
 ---
+### Citations
+---
+
+If you use it for a scientific publication, please include a reference to this paper.
+
+* Shu Li, Gang Li, Rob Law, and Yin Paradies (2020). [Racism in Tourism Reviews](https://doi.org/10.1016/j.tourman.2020.104100). **Tourism Management**, Vol 80, October 2020.
+
+
+`BibTex` information:
+
+    @article{LLLP2020,
+    title = {Racism in Tourism Reviews},
+    volume = {80},
+    doi = {https://doi.org/10.1016/j.tourman.2020.104100},
+    journal = {Tourism Management},
+    author = {Li, Shu and Li, Gang and Law, Rob and Paradies, Yin},
+    month = October,
+    year = {2020},
+    keywords = {Tourism, Racism, Review text processing, Sentiment analysis},
+    pages = {104100},
+    }
+
+
+---
 ### Data Description
 ---
 
@@ -36,30 +60,6 @@ This dataset `Racism2019` contains the `racism`-related reviews collected from t
 | 5 | City 	 			| The city of the venue | int64 |
 | 6 | User’s Location 	| Geographic information in user’s profile | int64 |
 | 7 | Review text 		| Content  | int64 |
-
-
-### Citations
----
-
-If you use it for a scientific publication, please include a reference to this paper.
-
-
-* Shu Li, Gang Li, Rob Law, and Yin Paradies (2020). [Racism in Tourism Reviews](). **Tourism Management**, to appear 2020.
-
-
-`BibTex` information:
-
-    @article{LLLP2020,
-    title = {Racism in Tourism Reviews},
-    volume = {XX},
-    doi = {https://doi.org/xxxxx},
-    journal = {Tourism Management},
-    author = {Li, Shu and Li, Gang and Law, Rob and Paradies, Yin},
-    month = January,
-    year = {2020},
-    keywords = {Review, Tourism, Racism},
-    pages = {XX},
-    }
 
 
 ---
