@@ -19,6 +19,32 @@
 The dataset `MO-2018` and `HK-2018` contain the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` and `HongKong` from January 2011 to August 2018.
 
 ---
+### Citations
+---
+
+If you use it for a scientific publication, please include a reference to this paper.
+
+* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law and Yating Yang (2020). [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899). **Annals of Tourism Research**, Vol 82, May 2020
+
+
+`BibTex` information:
+
+    @article{ZLMLY2020,
+    title = {Group Pooling For Deep Tourism Demand Forecasting},
+    volume = {82},
+    doi = {https://doi.org/10.1016/j.annals.2020.102899},
+    journal = {Annals of Tourism Research},
+    author = {Zhang, Yishuo and Li, Gang and Muskat, Birgit and Law, Rob and Yang, Yating},
+    month = May,
+    year = {2020},
+    keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}, 
+    }
+
+The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
+
+* [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/master/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
+
+---
 ### Data Description
 ---
 
@@ -234,30 +260,5 @@ The dataset `MO-2018` and `HK-2018` contain the `monthly tourist arrival volumes
 | 98   | weather in macau               | non\-null   | int64     |      |                                   |             |           |
 | 99   | macau restaurant menu          | non\-null   | int64     |      |                                   |             |           |
 
-
-### Citations
----
-
-If you use it for a scientific publication, please include a reference to this paper.
-
-* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law and Yating Yang (2020). [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899). **Annals of Tourism Research**, Vol 82, May 2020
-
-
-`BibTex` information:
-
-    @article{ZLMLY2020,
-    title = {Group Pooling For Deep Tourism Demand Forecasting},
-    volume = {82},
-    doi = {https://doi.org/10.1016/j.annals.2020.102899},
-    journal = {Annals of Tourism Research},
-    author = {Zhang, Yishuo and Li, Gang and Muskat, Birgit and Law, Rob and Yang, Yating},
-    month = May,
-    year = {2020},
-    keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}, 
-    }
-
-The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
-
-* [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/master/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
 
 ---
