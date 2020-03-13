@@ -240,7 +240,7 @@ The dataset `MO-2018` and `HK-2018` contain the `monthly tourist arrival volumes
 
 If you use it for a scientific publication, please include a reference to this paper.
 
-* Yishuo Zhang, Gang Li, Birgit Muskat, and Rob Law (2020). [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899). **Annals of Tourism Research**, Vol 82, May 2020
+* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law and Yating Yang (2020). [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899). **Annals of Tourism Research**, Vol 82, May 2020
 
 
 `BibTex` information:
@@ -256,5 +256,8 @@ If you use it for a scientific publication, please include a reference to this p
     keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}, 
     }
 
+The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
+
+* [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/master/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
 
 ---
