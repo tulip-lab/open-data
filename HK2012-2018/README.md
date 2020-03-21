@@ -1,4 +1,4 @@
-# `HongKong2012-2018`
+# `HK2012-2018`
 ---
 
 | Field | Value |
@@ -51,6 +51,7 @@ The related source code for above paper can be found at [TULIP Lab Open-Code](ht
 * The first row is the field name of each column in this dataset.
 * The following tables show descriptions for columns in all six data in the `HK2012-2018` Dataset.
 * There are total 96 SII features in each data file.
+* All the six data has the same feature names which are listed in below.
 
 #### `HK2012-2018` SII data
 
