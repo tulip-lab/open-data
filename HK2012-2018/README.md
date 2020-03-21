@@ -3,7 +3,7 @@
 
 | Field | Value |
 | --- | --- |
-| Title | HongKong2012-2018 |
+| Title | HK2012-2018 |
 | Type | Dataset |
 | Language | English |
 | License |   |
@@ -12,12 +12,11 @@
 | Date Published | 2020-03-20  |
 | Date Updated |  2020-03-20 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/HongKong2012-2018|
+| URL | https://github.com/tulip-lab/open-data/tree/master/HK2012-2018|
 | Publisher |[TULIP Lab](http://www.tulip.org.au/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
-The dataset `HongKong2012-2018` contain the `monthly Hong Kong tourist arrival volumes` and `Search Intensity Indices` (SII) data of six major visitor markets from January 2012 to December 2018.
-The six visitor markets are: `Australia`,`United Kingdom`,`Philippine`,`Singapore`,`Thailand`,`United States`.
+The dataset `HK2012-2018` contain the `monthly Hong Kong tourist arrival volumes` and `Search Intensity Indices` (SII) data of six major visitor markets from January 2012 to December 2018: `Australia`,`United Kingdom`,`Philippine`,`Singapore`,`Thailand` and `United States`.
 
 ---
 ### Citations
@@ -50,10 +49,10 @@ The related source code for above paper can be found at [TULIP Lab Open-Code](ht
 ---
 
 * The first row is the field name of each column in this dataset.
-* The following tables show descriptions for columns in all six data in the `HongKong2012-2018` Dataset.
+* The following tables show descriptions for columns in all six data in the `HK2012-2018` Dataset.
 * There are total 96 SII features in each data file.
 
-#### `HongKong2012-2018` SII data
+#### `HK2012-2018` SII data
 
 | No. | Feature Name                               | Description | Data Type |
 |-----|--------------------------------------------|-------------|-----------|
