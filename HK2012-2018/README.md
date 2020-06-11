@@ -24,7 +24,7 @@ The dataset `HK2012-2018` contain the `monthly Hong Kong tourist arrival volumes
 
 If you use it for a scientific publication, please include a reference to this paper.
 
-* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law (2020). [Tourism Demand Forecasting: A Decomposed Deep Learning Approach] **Journal of Travel Research**
+* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law (2020). [Tourism Demand Forecasting: A Decomposed Deep Learning Approach](https://doi.org/10.1177/0047287520919522). **Journal of Travel Research**, June 2020
 
 
 `BibTex` information:
