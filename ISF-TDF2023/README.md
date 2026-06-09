@@ -13,7 +13,7 @@
 | **Date Published** | 2026-05-20 |
 | **Date Updated** | 2026-06-02 |
 | **Portal** | https://github.com/tulip-lab/open-data |
-| **URL** | https://github.com/tulip-lab/open-data/tree/master/ITT-TDF2023 |
+| **URL** | https://github.com/tulip-lab/open-data/tree/master/ISF-TDF2023 |
 | **Publisher** | TULIP Lab |
 | **Point of Contact** | Prof. Gang Li |
 
@@ -59,7 +59,7 @@ The period from **March 2023 to July 2023** serves as the **validation period**.
 The period from **August 2023 to July 2024** serves as the **official evaluation period** of the competition. Forecast accuracy during this horizon is used for the final assessment and ranking of forecasting models.
 
 
-## ITT-TDF2023 Evaluation Metric
+## ISF-TDF2023 Evaluation Metric
 
 Forecasting performance in the **ISF-TDF2023** dataset is evaluated using the **Mean Absolute Scaled Error (MASE)**, a scale-independent forecasting accuracy measure that enables fair comparisons across destinations with substantially different tourism demand volumes.
 
@@ -93,7 +93,7 @@ The denominator corresponds to the mean absolute error of a **seasonal naïve be
 
 ### Competition Ranking
 
-For the **ITT-TDF2023** dataset, model rankings are determined based on the **average MASE** computed over the **evaluation period (August 2023 – July 2024)** across all destination series.
+For the **ISF-TDF2023** dataset, model rankings are determined based on the **average MASE** computed over the **evaluation period (August 2023 – July 2024)** across all destination series.
 
 Lower MASE values indicate better forecasting performance and higher ranking positions.
 
