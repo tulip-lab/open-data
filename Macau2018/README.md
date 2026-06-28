@@ -13,7 +13,7 @@
 | Date Updated |  2019-01-31 |
 | Portal | https://github.com/tulip-lab/open-data |
 | URL | https://github.com/tulip-lab/open-data/tree/master/Macau2018|
-| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
+| Publisher |[TULIP Lab](http://www.tulip.academy/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
 This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` from January 2011 to August 2018. There are 259 features in total:

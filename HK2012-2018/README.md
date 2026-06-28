@@ -13,8 +13,8 @@
 | Date Updated |  2020-03-20 |
 | Portal | https://github.com/tulip-lab/open-data |
 | URL | https://github.com/tulip-lab/open-data/tree/master/HK2012-2018|
-| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
-| Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
+| Publisher |[TULIP Lab](http://www.tulip.academy) |
+| Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
 
 The dataset `HK2012-2018` contain the `monthly Hong Kong tourist arrival volumes` and `Search Intensity Indices` (SII) data of six major visitor markets from January 2012 to December 2018: `Australia`,`United Kingdom`,`Philippine`,`Singapore`,`Thailand` and `United States`.
 

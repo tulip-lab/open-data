@@ -13,7 +13,7 @@
 | Date Updated |  2020-02-26 |
 | Portal | https://github.com/tulip-lab/open-data |
 | URL | https://github.com/tulip-lab/open-data/tree/master/HK-MO2018|
-| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
+| Publisher |[TULIP Lab](http://www.tulip.academy/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
 The dataset `MO-2018` and `HK-2018` contain the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` and `HongKong` from January 2011 to August 2018.

@@ -13,7 +13,7 @@
 | Date Updated |  2019-10-08 |
 | Portal | https://github.com/tulip-lab/open-data |
 | URL | https://github.com/tulip-lab/open-data/tree/master/TM2015|
-| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
+| Publisher |[TULIP Lab](http://www.tulip.academy/) |
 | Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
 
 This dataset `TM2015` is in the Matlab matrix format, and it contains the `matrix of collaboration network` and `publications of researchers` data for two collaboration networks. Networks are constructed with all research articles published in the journal of `Tourism Management` from 1982 to 2015. The dataset has been preprocessed.
