@@ -19,7 +19,7 @@
 
 ## Overview
 
-The **ISF-TDF2023** dataset contains monthly Chinese outbound tourism demand data for **20 selected destination countries/regions**. The dataset was developed for the **Tourism Demand Forecasting Competition 2024** hosed by 45th International Symposium on Forecasting Conference and includes historical observations together with designated validation and evaluation periods extending to **July 2024**.
+The **ISF-TDF2023** dataset contains monthly Chinese outbound tourism demand data for **20 selected destination countries/regions**. The dataset was developed for the **Tourism Demand Forecasting Competition 2024** hosed by `The 45th International Symposium on Forecasting Conference` and includes historical observations together with designated validation and evaluation periods extending to **July 2024**.
 
 The data span multiple tourism market regimes, including the pre-pandemic period, the COVID-19 disruption period, and the post-pandemic recovery phase, providing a challenging benchmark for tourism demand forecasting under significant structural changes and demand shocks.
 
@@ -29,11 +29,11 @@ Each destination country/region is represented by containing a continuous monthl
 
 | Period | Description |
 |----------|-------------|
-| Earliest Available Date – December 2019 | Pre-COVID tourism demand period |
-| March 2020 – June 2022 | COVID-19 disruption period |
-| July 2022 – February 2023 | Early recovery period |
-| March 2023 – July 2023 | Validation period |
-| August 2023 – July 2024 | Competition evaluation period |
+| Earliest Available Date - December 2019 | Pre-COVID tourism demand period |
+| March 2020 - June 2022 | COVID-19 disruption period |
+| July 2022 - February 2023 | Early recovery period |
+| March 2023 - July 2023 | Validation period |
+| August 2023 - July 2024 | Evaluation period (On-hold, for assessment only) |
 
 ### Historical Period
 
@@ -43,7 +43,7 @@ The historical observations include:
 - **COVID-19 disruption period:** March 2020 to June 2022
 - **Early recovery period:** July 2022 to February 2023
 
-These periods capture substantial structural changes in international tourism demand and provide valuable information for model development. Some of the country has missing values and some imputation or processing is requried.
+These periods capture substantial structural changes in international tourism demand and provide valuable information for model development. Some country has missing values and some imputation or processing is required.
 
 ### Validation Period
 
@@ -88,12 +88,12 @@ The denominator corresponds to the mean absolute error of a **seasonal naïve be
 | MASE Value | Interpretation |
 |------------|----------------|
 | MASE < 1 | Forecasting model performs better than the seasonal naïve benchmark |
-| MASE = 1 | Forecasting model performs similarly to the benchmark |
+| MASE = 1 | Forecasting model performs similarly to the benchmark (equivalent to `Pass`) |
 | MASE > 1 | Forecasting model performs worse than the benchmark |
 
 ### Competition Ranking
 
-For the **ISF-TDF2023** dataset, model rankings are determined based on the **average MASE** computed over the **evaluation period (August 2023 – July 2024)** across all destination series.
+For the **ISF-TDF2023** dataset, model rankings are determined based on the **average MASE** computed over the **evaluation period (August 2023 - July 2024)** across all destination series.
 
 Lower MASE values indicate better forecasting performance and higher ranking positions.
 
@@ -113,9 +113,9 @@ The dataset intentionally covers multiple tourism market regimes, including pre-
 
 ## Citation
 
-If you use this dataset in academic research, please cite the corresponding Competition2024 dataset and associated publications from TULIP Lab.
+If you use this dataset in academic research, please cite the corresponding `ISF-TDF2023` dataset and associated publications from [TULIP Lab](https://www.tulip.academy/publication/bi/).
 
-* Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting.](https://doi.org/10.1016/j.tourman.2020.104100). **Annals of Tourism Research**, Vol 118, Feb 2026.
+* Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.tourman.2020.104100). **Annals of Tourism Research**, Vol 118, Feb 2026.
 
 
 `BibTex` information:
@@ -128,7 +128,7 @@ If you use this dataset in academic research, please cite the corresponding Comp
     pages={104144},
     year={2026},
     publisher={Elsevier}
-}
+
 
 ## Disclaimer
 
@@ -141,8 +141,8 @@ If you are the owner of any data source included in this dataset and have concer
 **TULIP Lab**
 
 - Website: https://www.tulip.academy/
-- GitHub: https://github.com/tuliplab
-- Contact: Prof. Gang Li
+- GitHub: https://github.com/tulip-lab
+- Contact: Prof. [Gang Li](https://github.com/tuliplab)
 
 
 
