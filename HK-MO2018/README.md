@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
+</p>
+
 # `HK-MO2018`
 ---
 
@@ -6,7 +10,7 @@
 | Title | HK-MO2018 |
 | Type | Dataset |
 | Language | English |
-| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
+| License | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2020-02-26  |
@@ -25,7 +29,7 @@ This dataset is publicly released through the TULIP Lab Open Data Repository for
 Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
 
 ---
-### Citations
+## Citation
 ---
 
 If you use it for a scientific publication, please include a reference to this paper.
@@ -33,22 +37,22 @@ If you use it for a scientific publication, please include a reference to this p
 * Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law and Yating Yang (2020). [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899). **Annals of Tourism Research**, Vol 82, May 2020
 
 
-`BibTex` information:
+`BibTeX` information:
 
     @article{ZLMLY2020,
     title = {Group Pooling For Deep Tourism Demand Forecasting},
     volume = {82},
-    doi = {https://doi.org/10.1016/j.annals.2020.102899},
+    doi = {10.1016/j.annals.2020.102899},
     journal = {Annals of Tourism Research},
     author = {Zhang, Yishuo and Li, Gang and Muskat, Birgit and Law, Rob and Yang, Yating},
-    month = May,
+    month = may,
     year = {2020},
     keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}, 
     }
 
 The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
 
-* [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/master/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
+* [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/main/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
 
 ---
 ### Data Description

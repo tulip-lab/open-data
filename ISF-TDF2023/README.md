@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
+</p>
+
 # ISF-TDF2023
 
 ## Dataset Information
@@ -7,7 +11,7 @@
 | **Title** | ISF-TDF2023 |
 | **Type** | Dataset |
 | **Language** | English |
-| **License** | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
+| **License** | CC BY 4.0 unless otherwise stated |
 | **Data Status** | Static |
 | **Update Frequency** | No |
 | **Date Published** | 2026-05-20 |
@@ -130,7 +134,7 @@ If you use this dataset in academic research, please cite the corresponding `ISF
 * Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.annals.2026.104144). **Annals of Tourism Research**, Vol 118, Article 104144, May 2026.
 
 
-`BibTex` information:
+`BibTeX` information:
 
     @article{zhang2026imputation,
     title={Imputation recovery tourism demand forecasting},

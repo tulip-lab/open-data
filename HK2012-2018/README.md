@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
+</p>
+
 # `HK2012-2018`
 ---
 
@@ -6,7 +10,7 @@
 | Title | HK2012-2018 |
 | Type | Dataset |
 | Language | English |
-| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
+| License | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2020-03-20  |
@@ -37,7 +41,7 @@ The dataset `HK2012-2018` contain the `monthly Hong Kong tourist arrival volumes
   - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/United_States.csv
 
 ---
-### Citations
+## Citation
 ---
 
 If you use it for a scientific publication, please include a reference to this paper.
@@ -45,7 +49,7 @@ If you use it for a scientific publication, please include a reference to this p
 * Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law (2020). [Tourism Demand Forecasting: A Decomposed Deep Learning Approach](https://doi.org/10.1177/0047287520919522). **Journal of Travel Research**, June 2020
 
 
-`BibTex` information:
+`BibTeX` information:
 
     @article{ZLML2020,
     title = {Tourism Demand Forecasting: A Decomposed Deep Learning Approach},
@@ -60,7 +64,7 @@ If you use it for a scientific publication, please include a reference to this p
 
 The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
 
-* [`STL-DADLM`](https://github.com/tulip-lab/open-code/tree/master/STL-DADLM): A Deep Learning Package for STL Decomposition Tourism Demand Forecasting
+* [`STL-DADLM`](https://github.com/tulip-lab/open-code/tree/main/STL-DADLM): A Deep Learning Package for STL Decomposition Tourism Demand Forecasting
 
 ---
 ### Data Description

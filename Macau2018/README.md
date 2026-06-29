@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
+</p>
+
 # `Macau2018`
 ---
 
@@ -6,7 +10,7 @@
 | Title | Macau2018 |
 | Type | Dataset |
 | Language | English & Chinese (Simplified) |
-| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
+| License | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-01-31  |
@@ -32,14 +36,14 @@ This dataset is publicly released through the TULIP Lab Open Data Repository for
 Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
 
 ---
-### Citations
+## Citation
 ---
 
 If you use it for a scientific publication, please include a reference to this paper. 
 
 * Rob Law, Gang Li, Davis Fong, Xin Han (2019). [Tourism Demand Forecasting: A Deep Learning Approach](https://doi.org/10.1016/j.annals.2019.01.014). **Annals of Tourism Research**, Vol 75, March 2019, Page 410-423.
 
-`BibTex` information:
+`BibTeX` information:
 
     @article{LLFHDeep2019,
     title = {Tourism Demand Forecasting: A Deep Learning Approach},
@@ -47,15 +51,15 @@ If you use it for a scientific publication, please include a reference to this p
     doi = {10.1016/j.annals.2019.01.014},
     journal = {Annals of Tourism Research},
     author = {Law, Rob and Li, Gang and Fong, Davis Ka Chio and Han, Xin},
-    month = March,
+    month = mar,
     year = {2019},
     keywords = {Big data analytics, Deep Learning, Search query data,Tourism Demand Forecast},
-    pages = {410-423},
+    pages = {410--423},
     }
 
 The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
 
-* [DLM](https://github.com/tulip-lab/open-code/tree/master/DLM): A Deep Learning Package for Tourism Demand Forecasting
+* [DLM](https://github.com/tulip-lab/open-code/tree/main/DLM): A Deep Learning Package for Tourism Demand Forecasting
 
 ---
 ### Data Description
