@@ -23,7 +23,13 @@ This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Sea
 * The column (#4-#214) are SII for 211 related keywords are obtained from [Google Trends](https://trends.google.com), and 
 * The rest 45 columns are SII for keywords collected from [Baidu Index](https://zhishu.baidu.com).
 
-The mainland China and global monthly  tourist arrival volumes for Macau were collected from [Statistics and Census Services（DSEC）](https://www.dsec.gov.mo/Statistic.aspx?NodeGuid=251baebb-6e5b-4452-8ad1-7768eafc99ed) of the Macau government, while those Search Intensity Indices (SII) data were collected from [Google Trends](https://trends.google.com) and [Baidu Index](https://zhishu.baidu.com) using a developed tool (to be released at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code)).
+The mainland China and global monthly  tourist arrival volumes for Macau were collected from [Statistics and Census Services（DSEC）](https://www.dsec.gov.mo/Statistic.aspx?NodeGuid=251baebb-6e5b-4452-8ad1-7768eafc99ed) of the Macau government, while those Search Intensity Indices (SII) data were collected from [Google Trends](https://trends.google.com) and [Baidu Index](https://zhishu.baidu.com) using a developed tool (to be released at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code)).
+
+## Public release and attribution
+
+This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
+
+Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
 
 ---
 ### Citations
@@ -47,7 +53,7 @@ If you use it for a scientific publication, please include a reference to this p
     pages = {410-423},
     }
 
-The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
+The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
 
 * [DLM](https://github.com/tulip-lab/open-code/tree/master/DLM): A Deep Learning Package for Tourism Demand Forecasting
 

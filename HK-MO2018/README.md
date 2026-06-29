@@ -18,6 +18,12 @@
 
 The dataset `MO-2018` and `HK-2018` contain the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` and `HongKong` from January 2011 to August 2018.
 
+## Public release and attribution
+
+This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
+
+Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
+
 ---
 ### Citations
 ---
@@ -40,7 +46,7 @@ If you use it for a scientific publication, please include a reference to this p
     keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}, 
     }
 
-The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
+The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
 
 * [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/master/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
 

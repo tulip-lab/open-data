@@ -29,8 +29,9 @@ The data span multiple tourism market regimes, including the pre-pandemic period
 - Description: Monthly Chinese outbound tourism demand series for 20 selected destination countries/regions, with historical, validation, and evaluation periods extending to July 2024.
 - Source/provenance: Released by TULIP Lab for the Tourism Demand Forecasting Competition 2024 associated with the International Symposium on Forecasting and related research. Original source ownership remains with the respective source owners as noted in the disclaimer.
 - Licence: Inherits the repository-level open-data licence. Dataset values and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
-- Recommended attribution: Cite the repository, TULIP Lab, and Zhang, Song, Li, Law, and Li (2026) using the citation below.
-- Human-review note: Review source-specific terms before redistribution if additional provenance or source-owner permissions are required.
+- Recommended attribution: TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Song, Li, Law, and Li (2026) using the citation below.
+- DOI/citation: `10.1016/j.annals.2026.104144`.
+- Public-release confirmation: This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset-level provenance, source-owner disclaimer, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
 - Intended use: This dataset is intended for teaching, learning, assessment, and research use, subject to attribution and dataset-specific source notes.
 - Raw GitHub URL for the main student-facing data file: https://raw.githubusercontent.com/tulip-lab/open-data/main/ISF-TDF2023/ISF-TDF2023.csv
 
@@ -148,5 +149,3 @@ If you use this dataset in academic research, please cite the corresponding `ISF
 This dataset was collected, compiled, and processed in support of the **45th International Symposium on Forecasting (ISF 2025)** forecasting competition and related research activities. The dataset is provided solely for research, educational, and benchmarking purposes. While reasonable efforts have been made to ensure the accuracy and quality of the data, the publisher makes no warranties regarding its completeness, correctness, or fitness for any particular purpose. All intellectual property rights related to the original data sources remain with their respective owners. The inclusion of data in this repository does not imply any transfer of ownership rights.
 
 If you are the owner of any data source included in this dataset and have concerns regarding its use, distribution, copyright, licensing, privacy, or other related matters, please contact the dataset owner. Upon verification of the request, the relevant data will be reviewed and, where appropriate, removed or updated in a timely manner.
-
-
