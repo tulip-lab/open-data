@@ -24,7 +24,8 @@ The dataset `HK2012-2018` contain the `monthly Hong Kong tourist arrival volumes
 - Description: Monthly Hong Kong tourist arrival volumes and Search Intensity Indices for six visitor markets from January 2012 to December 2018.
 - Source/provenance: Released by TULIP Lab as data used in Zhang, Li, Muskat, and Law (2020), "Tourism Demand Forecasting: A Decomposed Deep Learning Approach". Original source details for the arrival and SII series are not fully documented in this README.
 - Licence: Inherits the repository-level open-data licence. Dataset values and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
-- Recommended attribution: Cite the repository, TULIP Lab, and Zhang, Li, Muskat, and Law (2020) using the citation below.
+- Recommended attribution: TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, and Law (2020) using the citation below.
+- DOI/citation: `10.1177/0047287520919522`.
 - Human-review note: Review original source/provenance details before redistribution if stricter source attribution is required.
 - Intended use: This dataset is intended for teaching, learning, assessment, and research use, subject to attribution and dataset-specific source notes.
 - Raw GitHub URLs for the main student-facing data files:
@@ -57,7 +58,7 @@ If you use it for a scientific publication, please include a reference to this p
     keywords = {Tourism demand forecasting, tourism planning, AI-based forecasting, deep learning, decomposing method, over-fitting}, 
     }
 
-The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
+The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
 
 * [`STL-DADLM`](https://github.com/tulip-lab/open-code/tree/master/STL-DADLM): A Deep Learning Package for STL Decomposition Tourism Demand Forecasting
 
@@ -172,4 +173,3 @@ The related source code for above paper can be found at [TULIP Lab Open-Code](ht
 | 96  | air asia Hong Kong                         | non-null    | Int64     |
 | 97  | Yum cha                                    | non-null    | Int64     |
 | 98  | Hong Kong Convention and Exhibition Centre | non-null    | Int64     |
-

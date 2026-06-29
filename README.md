@@ -1,4 +1,4 @@
-# TULIP Lab Open Data  
+# TULIP Lab Open Data Repository
 
 ---
 - All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
@@ -24,3 +24,28 @@ Prepared by [TULIP Lab](https://www.tulip.academy), Australia
 
 * [`Racism2019`](Racism2019): Collected racism related data in tourism and hospitality social networks as used in [Racism in Tourism Reviews](https://doi.org/10.1016/j.tourman.2020.104100). **Tourism Management**, Vol 80, October 2020.
 * [`TM2015`](TM2015): Tourism researchers collaboration network data, as used in [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607). **Tourism Management Perspectives**, Vol 33, January 2020.
+
+## Licence and attribution
+
+Datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
+Code examples, utility scripts, data-processing scripts, and reusable code are licensed under the MIT License unless otherwise stated.
+Some datasets may include or be derived from third-party public sources. Users must check dataset-level source, attribution, and provenance notes before use.
+Suggested attribution:
+TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
+
+Dataset-specific source/provenance notes may include additional attribution requirements or restrictions. The repository-level licence does not override more restrictive or specific third-party source terms.
+
+## Citation
+
+Recommended repository citation:
+
+TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
+
+If you use a specific dataset, also cite the associated paper or dataset-level citation listed in that dataset's README.
+
+## Related code
+
+Related examples, baselines, training scripts, or analysis code may be hosted in the TULIP Lab Open Code Repository:
+https://github.com/tulip-lab/open-code
+
+Code is licensed separately. Please check the open-code repository licence and citation notes before use.

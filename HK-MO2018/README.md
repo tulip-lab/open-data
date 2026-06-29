@@ -40,7 +40,7 @@ If you use it for a scientific publication, please include a reference to this p
     keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}, 
     }
 
-The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
+The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
 
 * [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/master/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
 

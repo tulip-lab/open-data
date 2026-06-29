@@ -1,3 +1,7 @@
-All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
+Datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
 
-All code and scripts in this repository are licensed under the MIT License, unless otherwise stated.
+CC BY 4.0 licence text: https://creativecommons.org/licenses/by/4.0/
+
+Code examples, utility scripts, data-processing scripts, and reusable code are licensed under the MIT License unless otherwise stated. See `LICENSE-CODE`.
+
+Dataset-specific source, provenance, attribution, or third-party licence notes may include additional requirements or restrictions. This repository-level licence notice does not override more restrictive or specific third-party source terms.
