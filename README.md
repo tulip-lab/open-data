@@ -1,8 +1,8 @@
-# TULIP Lab Open Data
-
 <p align="center">
   <img src="assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
 </p>
+
+# TULIP Lab Open Data
 
 The TULIP Lab Open Data Repository hosts public datasets and dataset documentation released by TULIP Lab. It is paired with the TULIP Lab Open Code Repository, which hosts related research software, examples, and scripts.
 
@@ -24,17 +24,17 @@ This repository is for public datasets and dataset documentation released by TUL
 
 | Dataset | Path | Description |
 |---|---|---|
-| ISF-TDF2023 | [`ISF-TDF2023/`](ISF-TDF2023) | Tourism demand forecasting data as used in [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.annals.2026.104144), **Annals of Tourism Research**, May 2026. |
-| HK2012-2018 | [`HK2012-2018/`](HK2012-2018) | Tourism demand forecasting data as used in [Tourism Demand Forecasting: A Decomposed Deep Learning Approach](https://doi.org/10.1177/0047287520919522), **Journal of Travel Research**, June 2020. |
-| HK-MO2018 | [`HK-MO2018/`](HK-MO2018) | Tourism demand forecasting data as used in [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899), **Annals of Tourism Research**, Vol 82, May 2020. |
-| Macau2018 | [`Macau2018/`](Macau2018) | Tourism demand forecasting data as used in [Tourism Demand Forecasting: A Deep Learning Approach](https://doi.org/10.1016/j.annals.2019.01.014), **Annals of Tourism Research**, Vol 75, March 2019, Page 410-423. |
+| ISF-TDF2023 | [`ISF-TDF2023/`](ISF-TDF2023) | Tourism demand forecasting data as used in [*Imputation recovery tourism demand forecasting*](https://doi.org/10.1016/j.annals.2026.104144), *Annals of Tourism Research*, May 2026. |
+| HK2012-2018 | [`HK2012-2018/`](HK2012-2018) | Tourism demand forecasting data as used in [*Tourism Demand Forecasting: A Decomposed Deep Learning Approach*](https://doi.org/10.1177/0047287520919522), *Journal of Travel Research*, June 2020. |
+| HK-MO2018 | [`HK-MO2018/`](HK-MO2018) | Tourism demand forecasting data as used in [*Group Pooling For Deep Tourism Demand Forecasting*](https://doi.org/10.1016/j.annals.2020.102899), *Annals of Tourism Research*, Vol 82, May 2020. |
+| Macau2018 | [`Macau2018/`](Macau2018) | Tourism demand forecasting data as used in [*Tourism Demand Forecasting: A Deep Learning Approach*](https://doi.org/10.1016/j.annals.2019.01.014), *Annals of Tourism Research*, Vol 75, March 2019, Page 410-423. |
 
 ### Tourism Social Network
 
 | Dataset | Path | Description |
 |---|---|---|
-| Racism2019 | [`Racism2019/`](Racism2019) | Racism-related tourism and hospitality social network data as used in [Racism in Tourism Reviews](https://doi.org/10.1016/j.tourman.2020.104100), **Tourism Management**, Vol 80, October 2020. |
-| TM2015 | [`TM2015/`](TM2015) | Tourism researchers collaboration network data as used in [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607), **Tourism Management Perspectives**, Vol 33, January 2020. |
+| Racism2019 | [`Racism2019/`](Racism2019) | Racism-related tourism and hospitality social network data as used in [*Racism in Tourism Reviews*](https://doi.org/10.1016/j.tourman.2020.104100), *Tourism Management*, Vol 80, October 2020. |
+| TM2015 | [`TM2015/`](TM2015) | Tourism researchers collaboration network data as used in [*Analyzing Co-authoring Communities of Tourism Research Collaboration*](https://doi.org/10.1016/j.tmp.2019.100607), *Tourism Management Perspectives*, Vol 33, January 2020. |
 
 ## Related code
 
@@ -47,7 +47,7 @@ Code is licensed separately. Please check the open-code repository licence and c
 
 Recommended repository citation:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
 
 If you use a specific dataset, also cite the associated paper or dataset-level citation listed in that dataset's README.
 
@@ -63,7 +63,7 @@ Dataset-level README or source notes provide provenance, attribution, and citati
 
 Suggested attribution:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
 
 ## Human review / known documentation issues
 

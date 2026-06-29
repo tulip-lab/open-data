@@ -9,7 +9,7 @@
 | Title | TM2015 |
 | Type | Dataset |
 | Language | English |
-| License | CC BY 4.0 unless otherwise stated |
+| Licence | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-10-07 |
@@ -36,7 +36,7 @@ The dataset was constructed from `Tourism Management` research articles and used
 
 If you use this dataset for a scientific publication, please include a reference to the following paper.
 
-* Wei Fan, Gang Li, and Rob Law (2020). [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607). **Tourism Management Perspectives**, Vol 33, January 2020.
+> Wei Fan, Gang Li, and Rob Law (2020). [*Analyzing Co-authoring Communities of Tourism Research Collaboration*](https://doi.org/10.1016/j.tmp.2019.100607). *Tourism Management Perspectives*, Vol 33, January 2020.
 
 `BibTeX` information:
 
@@ -60,7 +60,7 @@ Dataset files and dataset documentation are licensed under CC BY 4.0 unless othe
 
 Suggested attribution:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Fan, Li, and Law (2020).
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Fan, Li, and Law (2020).
 
 ## Related code
 

@@ -9,7 +9,7 @@
 | Title | HK-MO2018 |
 | Type | Dataset |
 | Language | English |
-| License | CC BY 4.0 unless otherwise stated |
+| Licence | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2020-02-26 |
@@ -40,7 +40,7 @@ Users should cite the TULIP Lab Open Data Repository and the dataset-specific pa
 
 If you use this dataset for a scientific publication, please include a reference to the following paper.
 
-* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law and Yating Yang (2020). [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899). **Annals of Tourism Research**, Vol 82, May 2020
+> Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law and Yating Yang (2020). [*Group Pooling For Deep Tourism Demand Forecasting*](https://doi.org/10.1016/j.annals.2020.102899). *Annals of Tourism Research*, Vol 82, May 2020.
 
 
 `BibTeX` information:
@@ -64,7 +64,7 @@ Dataset files and dataset documentation are licensed under CC BY 4.0 unless othe
 
 Suggested attribution:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, Law, and Yang (2020).
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, Law, and Yang (2020).
 
 ## Related code
 

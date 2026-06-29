@@ -9,7 +9,7 @@
 | Title | HK2012-2018 |
 | Type | Dataset |
 | Language | English |
-| License | CC BY 4.0 unless otherwise stated |
+| Licence | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2020-03-20 |
@@ -56,7 +56,7 @@ Column descriptions are retained in the data dictionary below.
 
 If you use this dataset for a scientific publication, please include a reference to the following paper.
 
-* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law (2020). [Tourism Demand Forecasting: A Decomposed Deep Learning Approach](https://doi.org/10.1177/0047287520919522). **Journal of Travel Research**, June 2020
+> Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law (2020). [*Tourism Demand Forecasting: A Decomposed Deep Learning Approach*](https://doi.org/10.1177/0047287520919522). *Journal of Travel Research*, June 2020.
 
 
 `BibTeX` information:
@@ -80,7 +80,7 @@ Dataset files and dataset documentation are licensed under CC BY 4.0 unless othe
 
 Suggested attribution:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, and Law (2020).
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, and Law (2020).
 
 ## Related code
 

@@ -9,7 +9,7 @@
 | Title | Macau2018 |
 | Type | Dataset |
 | Language | English & Chinese (Simplified) |
-| License | CC BY 4.0 unless otherwise stated |
+| Licence | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-01-31 |
@@ -46,7 +46,7 @@ Users should cite the TULIP Lab Open Data Repository and the dataset-specific pa
 
 If you use this dataset for a scientific publication, please include a reference to the following paper.
 
-* Rob Law, Gang Li, Davis Fong, Xin Han (2019). [Tourism Demand Forecasting: A Deep Learning Approach](https://doi.org/10.1016/j.annals.2019.01.014). **Annals of Tourism Research**, Vol 75, March 2019, Page 410-423.
+> Rob Law, Gang Li, Davis Fong, Xin Han (2019). [*Tourism Demand Forecasting: A Deep Learning Approach*](https://doi.org/10.1016/j.annals.2019.01.014). *Annals of Tourism Research*, Vol 75, March 2019, Page 410-423.
 
 `BibTeX` information:
 
@@ -70,7 +70,7 @@ Dataset files and dataset documentation are licensed under CC BY 4.0 unless othe
 
 Suggested attribution:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Law, Li, Fong, and Han (2019).
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Law, Li, Fong, and Han (2019).
 
 ## Related code
 

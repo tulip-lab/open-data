@@ -9,7 +9,7 @@
 | Title | Racism2019 |
 | Type | Dataset |
 | Language | English |
-| License | CC BY 4.0 unless otherwise stated |
+| Licence | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-06-26 |
@@ -37,7 +37,7 @@ The reviews were collected from the Internet and used in Li, Li, Law, and Paradi
 
 If you use this dataset for a scientific publication, please include a reference to the following paper.
 
-* Shu Li, Gang Li, Rob Law, and Yin Paradies (2020). [Racism in Tourism Reviews](https://doi.org/10.1016/j.tourman.2020.104100). **Tourism Management**, Vol 80, October 2020.
+> Shu Li, Gang Li, Rob Law, and Yin Paradies (2020). [*Racism in Tourism Reviews*](https://doi.org/10.1016/j.tourman.2020.104100). *Tourism Management*, Vol 80, October 2020.
 
 `BibTeX` information:
 
@@ -61,7 +61,7 @@ Dataset files and dataset documentation are licensed under CC BY 4.0 unless othe
 
 Suggested attribution:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Li, Li, Law, and Paradies (2020).
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Li, Li, Law, and Paradies (2020).
 
 ## Related code
 

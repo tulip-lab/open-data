@@ -9,7 +9,7 @@
 | **Title** | ISF-TDF2023 |
 | **Type** | Dataset |
 | **Language** | English |
-| **License** | CC BY 4.0 unless otherwise stated |
+| **Licence** | CC BY 4.0 unless otherwise stated |
 | **Data Status** | Static |
 | **Update Frequency** | No |
 | **Date Published** | 2026-05-20 |
@@ -17,7 +17,7 @@
 | **Portal** | https://github.com/tulip-lab/open-data |
 | **URL** | https://github.com/tulip-lab/open-data/tree/main/ISF-TDF2023 |
 | **Publisher** | TULIP Lab |
-| **Point of Contact** | Prof. Gang Li |
+| **Point of Contact** | [Prof. Gang Li](https://github.com/tuliplab) |
 
 ## Overview
 
@@ -135,7 +135,7 @@ The dataset intentionally covers multiple tourism market regimes, including pre-
 
 If you use this dataset for a scientific publication, please include a reference to the following paper.
 
-* Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.annals.2026.104144). **Annals of Tourism Research**, Vol 118, Article 104144, May 2026.
+> Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [*Imputation recovery tourism demand forecasting*](https://doi.org/10.1016/j.annals.2026.104144). *Annals of Tourism Research*, Vol 118, Article 104144, May 2026.
 
 
 `BibTeX` information:
@@ -159,7 +159,7 @@ Dataset files and dataset documentation are licensed under CC BY 4.0 unless othe
 
 Suggested attribution:
 
-TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Song, Li, Law, and Li (2026).
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Song, Li, Law, and Li (2026).
 
 ## Related code
 
