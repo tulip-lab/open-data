@@ -1,52 +1,98 @@
-# `HK2012-2018`
----
+<p align="center">
+  <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
+</p>
+
+# HK2012-2018
 
 | Field | Value |
 | --- | --- |
 | Title | HK2012-2018 |
 | Type | Dataset |
 | Language | English |
-| License |   |
+| Licence | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
-| Date Published | 2020-03-20  |
-| Date Updated |  2020-03-20 |
+| Date Published | 2020-03-20 |
+| Date Updated | 2020-03-20 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/HK2012-2018|
-| Publisher |[TULIP Lab](http://www.tulip.org.au/) |
-| Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
+| URL | https://github.com/tulip-lab/open-data/tree/main/HK2012-2018 |
+| Publisher | [TULIP Lab](http://www.tulip.academy) |
+| Point of Contact | [Prof. Gang Li](https://github.com/tuliplab) |
+
+## Overview
 
 The dataset `HK2012-2018` contain the `monthly Hong Kong tourist arrival volumes` and `Search Intensity Indices` (SII) data of six major visitor markets from January 2012 to December 2018: `Australia`,`United Kingdom`,`Philippine`,`Singapore`,`Thailand` and `United States`.
 
----
-### Citations
----
+## Files
 
-If you use it for a scientific publication, please include a reference to this paper.
+- `Australia.csv`
+- `Philippine.csv`
+- `Singapore.csv`
+- `Thailand.csv`
+- `United_Kingdom.csv`
+- `United_States.csv`
 
-* Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law (2020). [Tourism Demand Forecasting: A Decomposed Deep Learning Approach](https://doi.org/10.1177/0047287520919522). **Journal of Travel Research**, June 2020
+Column descriptions are retained in the data dictionary below.
+
+## Source and provenance
+
+- Dataset name: `HK2012-2018`.
+- Description: Monthly Hong Kong tourist arrival volumes and Search Intensity Indices for six visitor markets from January 2012 to December 2018.
+- Source/provenance: Released by TULIP Lab as data used in Zhang, Li, Muskat, and Law (2020), "Tourism Demand Forecasting: A Decomposed Deep Learning Approach". Original source details for the arrival and SII series are not fully documented in this README.
+- Licence: Inherits the repository-level open-data licence. Dataset values and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
+- Recommended attribution: TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, and Law (2020) using the citation below.
+- DOI/citation: `10.1177/0047287520919522`.
+- Public-release confirmation: This dataset is a curator-confirmed public TULIP Lab open-data release. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
+- Intended use: This dataset is intended for educational and research use, subject to attribution and dataset-specific source notes.
+- Raw GitHub URLs for the public data files:
+  - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/Australia.csv
+  - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/Philippine.csv
+  - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/Singapore.csv
+  - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/Thailand.csv
+  - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/United_Kingdom.csv
+  - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/United_States.csv
+
+## Citation
+
+If you use this dataset for a scientific publication, please include a reference to the following paper.
+
+> Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law (2020). [*Tourism Demand Forecasting: A Decomposed Deep Learning Approach*](https://doi.org/10.1177/0047287520919522). *Journal of Travel Research*, June 2020.
 
 
-`BibTex` information:
+`BibTeX` information:
 
-    @article{ZLML2020,
-    title = {Tourism Demand Forecasting: A Decomposed Deep Learning Approach},
-    volume = {0},
-    doi = {10.1177/0047287520919522},
-    journal = {Journal of Travel Research},
-    author = {Zhang, Yishuo and Li, Gang and Muskat, Birgit and Law, Rob},
-    month = {06},
-    year = {2020},
-    keywords = {Tourism demand forecasting, tourism planning, AI-based forecasting, deep learning, decomposing method, over-fitting}, 
-    }
+```bibtex
+@article{ZLML2020,
+  title = {Tourism Demand Forecasting: A Decomposed Deep Learning Approach},
+  volume = {0},
+  doi = {10.1177/0047287520919522},
+  journal = {Journal of Travel Research},
+  author = {Zhang, Yishuo and Li, Gang and Muskat, Birgit and Law, Rob},
+  month = jun,
+  year = {2020},
+  keywords = {Tourism demand forecasting, tourism planning, AI-based forecasting, deep learning, decomposing method, over-fitting}
+}
+```
 
-The related source code for above paper can be found at [TULIP Lab Open-Code](https://github.com/tulip-lab/open-code):
+## Licence and attribution
 
-* [`STL-DADLM`](https://github.com/tulip-lab/open-code/tree/master/STL-DADLM): A Deep Learning Package for STL Decomposition Tourism Demand Forecasting
+Dataset files and dataset documentation are licensed under CC BY 4.0 unless otherwise stated. Dataset-level provenance, source, citation, and DOI notes remain part of the attribution record and are not overridden by repository-level licence wording.
 
----
-### Data Description
----
+Suggested attribution:
+
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, and Law (2020).
+
+## Related code
+
+The related source code for the paper can be found in the TULIP Lab Open Code Repository:
+
+* [`STL-DADLM`](https://github.com/tulip-lab/open-code/tree/main/STL-DADLM): A Deep Learning Package for STL Decomposition Tourism Demand Forecasting
+
+## Notes
+
+Original source details for the arrival and SII series are not fully documented in this README. This is not a blocker for the curator-confirmed public TULIP Lab release, but source/provenance details can be expanded later.
+
+## Data dictionary
 
 * The first row is the field name of each column in this dataset.
 * The following tables show descriptions for columns in all six data in the `HK2012-2018` Dataset.
@@ -155,5 +201,3 @@ The related source code for above paper can be found at [TULIP Lab Open-Code](ht
 | 96  | air asia Hong Kong                         | non-null    | Int64     |
 | 97  | Yum cha                                    | non-null    | Int64     |
 | 98  | Hong Kong Convention and Exhibition Centre | non-null    | Int64     |
-
-
