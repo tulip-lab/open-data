@@ -42,7 +42,7 @@ Column descriptions are retained in the data dictionary below.
 - Licence: Inherits the repository-level open-data licence. Dataset values and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
 - Recommended attribution: TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, and Law (2020) using the citation below.
 - DOI/citation: `10.1177/0047287520919522`.
-- Public-release confirmation: This dataset is an owner-confirmed public TULIP Lab open-data release. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
+- Public-release confirmation: This dataset is a curator-confirmed public TULIP Lab open-data release. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
 - Intended use: This dataset is intended for educational and research use, subject to attribution and dataset-specific source notes.
 - Raw GitHub URLs for the public data files:
   - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/Australia.csv
@@ -90,7 +90,7 @@ The related source code for the paper can be found in the TULIP Lab Open Code Re
 
 ## Notes
 
-Original source details for the arrival and SII series are not fully documented in this README. This is not a blocker for the owner-confirmed public TULIP Lab release, but source/provenance details can be expanded later.
+Original source details for the arrival and SII series are not fully documented in this README. This is not a blocker for the curator-confirmed public TULIP Lab release, but source/provenance details can be expanded later.
 
 ## Data dictionary
 

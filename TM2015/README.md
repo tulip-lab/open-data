@@ -70,4 +70,4 @@ No single related open-code subproject is documented in this dataset README.
 
 - Matrix files contain connection information among researchers.
 - Each cell in the publication list contains publication indicators of a researcher.
-- Publisher/source terms remain a non-blocking owner-confirmation item if this dataset is selected for future release-sensitive use.
+- Publisher/source terms remain a non-blocking curation follow-up if this dataset is selected for future release-sensitive use.

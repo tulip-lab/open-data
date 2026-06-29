@@ -69,7 +69,7 @@ No single related open-code subproject is documented in this dataset README.
 
 ## Notes
 
-Source-site terms, privacy constraints, and attribution requirements remain a non-blocking owner-confirmation item if this dataset is selected for future release-sensitive use.
+Source-site terms, privacy constraints, and attribution requirements remain a non-blocking curation follow-up if this dataset is selected for future release-sensitive use.
 
 ## Data dictionary
 
