@@ -7,7 +7,7 @@
 | **Title** | ISF-TDF2023 |
 | **Type** | Dataset |
 | **Language** | English |
-| **License** |  |
+| **License** | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
 | **Data Status** | Static |
 | **Update Frequency** | No |
 | **Date Published** | 2026-05-20 |
@@ -115,7 +115,7 @@ The dataset intentionally covers multiple tourism market regimes, including pre-
 
 If you use this dataset in academic research, please cite the corresponding `ISF-TDF2023` dataset and associated publications from [TULIP Lab](https://www.tulip.academy/publication/bi/).
 
-* Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.tourman.2020.104100). **Annals of Tourism Research**, Vol 118, Feb 2026.
+* Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.annals.2026.104144). **Annals of Tourism Research**, Vol 118, Article 104144, May 2026.
 
 
 `BibTex` information:
@@ -127,7 +127,9 @@ If you use this dataset in academic research, please cite the corresponding `ISF
     volume={118},
     pages={104144},
     year={2026},
+    doi={10.1016/j.annals.2026.104144},
     publisher={Elsevier}
+    }
 
 
 ## Disclaimer
@@ -135,14 +137,6 @@ If you use this dataset in academic research, please cite the corresponding `ISF
 This dataset was collected, compiled, and processed in support of the **45th International Symposium on Forecasting (ISF 2025)** forecasting competition and related research activities. The dataset is provided solely for research, educational, and benchmarking purposes. While reasonable efforts have been made to ensure the accuracy and quality of the data, the publisher makes no warranties regarding its completeness, correctness, or fitness for any particular purpose. All intellectual property rights related to the original data sources remain with their respective owners. The inclusion of data in this repository does not imply any transfer of ownership rights.
 
 If you are the owner of any data source included in this dataset and have concerns regarding its use, distribution, copyright, licensing, privacy, or other related matters, please contact the dataset owner. Upon verification of the request, the relevant data will be reviewed and, where appropriate, removed or updated in a timely manner.
-
-## Contact
-
-**TULIP Lab**
-
-- Website: https://www.tulip.academy/
-- GitHub: https://github.com/tulip-lab
-- Contact: Prof. [Gang Li](https://github.com/tuliplab)
 
 
 

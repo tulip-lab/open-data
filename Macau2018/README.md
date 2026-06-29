@@ -6,7 +6,7 @@
 | Title | Macau2018 |
 | Type | Dataset |
 | Language | English & Chinese (Simplified) |
-| License |   |
+| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-01-31  |
@@ -14,7 +14,7 @@
 | Portal | https://github.com/tulip-lab/open-data |
 | URL | https://github.com/tulip-lab/open-data/tree/master/Macau2018|
 | Publisher |[TULIP Lab](http://www.tulip.academy/) |
-| Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
+| Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
 
 This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` from January 2011 to August 2018. There are 259 features in total:
 
