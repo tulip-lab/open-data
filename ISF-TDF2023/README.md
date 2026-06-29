@@ -39,7 +39,7 @@ The file contains monthly tourism demand series for 20 selected destination coun
 - Licence: Inherits the repository-level open-data licence. Dataset values and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
 - Recommended attribution: TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Song, Li, Law, and Li (2026) using the citation below.
 - DOI/citation: `10.1016/j.annals.2026.104144`.
-- Public-release confirmation: This dataset is an owner-confirmed public TULIP Lab open-data release. Dataset-level provenance, source-owner disclaimer, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
+- Public-release confirmation: This dataset is a curator-confirmed public TULIP Lab open-data release. Dataset-level provenance, source-owner disclaimer, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
 - Intended use: This dataset is intended for educational, research, and benchmarking use, subject to attribution and dataset-specific source notes.
 - Raw GitHub URL for the public data file: https://raw.githubusercontent.com/tulip-lab/open-data/main/ISF-TDF2023/ISF-TDF2023.csv
 

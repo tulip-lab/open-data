@@ -32,7 +32,7 @@ Column descriptions are retained in the data dictionary below.
 
 ## Source and provenance
 
-This dataset is an owner-confirmed public TULIP Lab open-data release. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
+This dataset is a curator-confirmed public TULIP Lab open-data release. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
 
 Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
 

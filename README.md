@@ -65,6 +65,6 @@ Suggested attribution:
 
 > TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
 
-## Human review / known documentation issues
+## Curation notes
 
-Known follow-up items are tracked in [HUMAN_REVIEW.md](HUMAN_REVIEW.md). Documentation audit details are recorded in [DOCS_AUDIT.md](DOCS_AUDIT.md).
+Licence, citation, provenance, and attribution follow-up notes are tracked in [CURATION_NOTES.md](CURATION_NOTES.md). Documentation audit details are recorded in [DOCS_AUDIT.md](DOCS_AUDIT.md).

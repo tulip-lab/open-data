@@ -6,7 +6,7 @@ Audit date: 2026-06-29
 
 | Area | Files |
 | --- | --- |
-| Root documentation | `README.md`, `CITATION.md`, `LICENSE`, `LICENSE-CODE`, `DATA-SOURCES.md`, `HUMAN_REVIEW.md` |
+| Root documentation | `README.md`, `CITATION.md`, `LICENSE`, `LICENSE-CODE`, `DATA-SOURCES.md`, `CURATION_NOTES.md` |
 | Dataset READMEs | `HK2012-2018/README.md`, `HK-MO2018/README.md`, `Macau2018/README.md`, `ISF-TDF2023/README.md`, `Racism2019/README.md`, `TM2015/README.md` |
 
 ## README templates applied
@@ -51,7 +51,7 @@ Existing data dictionaries, evaluation-method notes, source notes, DOI notes, an
 | Issue | Status |
 | --- | --- |
 | Dataset README files needed consistent licence/attribution sections. | Added `Licence and attribution` sections. |
-| Repository-level CC BY 4.0 must not override dataset-specific source terms. | Preserved in dataset README files, `DATA-SOURCES.md`, and `HUMAN_REVIEW.md`. |
+| Repository-level CC BY 4.0 must not override dataset-specific source terms. | Preserved in dataset README files, `DATA-SOURCES.md`, and `CURATION_NOTES.md`. |
 | Code/scripts are licensed separately under MIT unless otherwise stated. | Preserved in root README and `LICENSE-CODE`; no reusable code files were found during this pass. |
 
 ## DATA-SOURCES cleanup
@@ -64,9 +64,9 @@ Existing data dictionaries, evaluation-method notes, source notes, DOI notes, an
 - source/provenance status;
 - citation/DOI status;
 - licence status;
-- human-review status.
+- curation status.
 
-Owner-confirmed public datasets are marked as resolved/owner-confirmed rather than blocking human-review issues.
+Curator-confirmed public datasets are marked as resolved/curator-confirmed rather than blocking curation issues.
 
 ## Branch-name references
 
@@ -82,23 +82,23 @@ Owner-confirmed public datasets are marked as resolved/owner-confirmed rather th
 | Root README | Covered with `assets/tulip-wordmark.png` |
 | Major dataset READMEs | Covered with `../assets/tulip-wordmark.png` |
 
-## HUMAN_REVIEW cleanup
+## Curation notes cleanup
 
-`HUMAN_REVIEW.md` was reorganised into:
+`CURATION_NOTES.md` was reorganised into:
 
 - Blocking before public release
-- Requires owner confirmation
+- Requires curator confirmation
 - Non-blocking documentation cleanup
 - Optional future enhancement
-- Resolved / owner-confirmed
+- Resolved / curator-confirmed
 
-## Remaining issues requiring owner confirmation
+## Remaining issues requiring curator confirmation
 
 - `Racism2019` source-site terms, privacy constraints, and attribution requirements if selected for future release-sensitive use.
 - `TM2015` publisher/source terms for derived bibliographic and collaboration-network data if selected for future release-sensitive use.
 
 ## Recommended next actions
 
-- Keep dataset-specific DOI and paper citations current when owners publish updates.
+- Keep dataset-specific DOI and paper citations current when maintainers publish updates.
 - Add a repository-level archival DOI or `CITATION.cff` later only if desired.
-- Expand original source details for owner-confirmed public datasets as a non-blocking documentation enhancement.
+- Expand original source details for curator-confirmed public datasets as a non-blocking documentation enhancement.
