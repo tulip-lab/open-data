@@ -1,28 +1,31 @@
 # Human Review
 
-The following licence, citation, provenance, and attribution notes reflect the current owner confirmation and remaining future-review items. No dataset values or code logic were changed for this documentation update.
+The following licence, citation, provenance, and attribution notes reflect the current owner confirmation and remaining follow-up items. No dataset values or code logic were changed for this documentation update.
 
-## Repository-level citation
+## Blocking before public release
 
-- Optional future enhancement: a repository-level DOI, release version, or complete repository-level author list may be added later through Zenodo or another archival service if desired. This is not blocking the current SIT742 A1/A2 release.
-- Dataset-level DOI information appears in dataset README files and is summarized in `DATA-SOURCES.md` where available.
+- None identified for this documentation-only standardisation pass.
 
-## Owner-confirmed public releases
+## Requires owner confirmation
 
-The following datasets are owner-confirmed public TULIP Lab open-data releases for current SIT742 use. They are not blocking human-review items merely because they are public datasets:
+- `Racism2019`: confirm specific review-source sites, collection terms, privacy constraints, and attribution requirements if selected for future release-sensitive use.
+- `TM2015`: confirm publisher/source terms for derived `Tourism Management` bibliographic and collaboration-network data if selected for future release-sensitive use.
 
-- `ISF-TDF2023`
-- `HK2012-2018`
-- `HK-MO2018`
-- `Macau2018`
+## Non-blocking documentation cleanup
 
-For these datasets, dataset files and dataset documentation are licensed under CC BY 4.0 unless otherwise stated. Users should cite the TULIP Lab Open Data Repository and any dataset-specific DOI, paper, source, or attribution note listed in the dataset README. Dataset-level provenance/source/citation notes are retained for attribution and reproducibility, and this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
+- `HK2012-2018`: original source details for arrival and SII series are not fully documented in the README; public-release status is owner-confirmed and this is not a blocker.
+- `HK-MO2018`: detailed original source URLs are not fully documented in the README; public-release status is owner-confirmed and this is not a blocker.
+- `ISF-TDF2023`: source-owner disclaimer is retained; original source ownership remains with the source owners noted in the dataset README.
 
-## Future-review items
+## Optional future enhancement
 
-- `Racism2019`: Specific review-source sites, collection terms, privacy constraints, and attribution requirements are not fully documented in the README. Not blocking current SIT742 A1/A2 release unless selected for assessment use later.
-- `TM2015`: Review publisher/source terms for derived Tourism Management bibliographic and collaboration-network data. Not blocking current SIT742 A1/A2 release unless selected for assessment use later.
+- Add a repository-level DOI, release version, complete repository-level author list, or `CITATION.cff` if desired.
+- Keep dataset-specific DOI and paper citations current when dataset owners publish updates.
 
-## Code in the data repository
+## Resolved / owner-confirmed
 
-- No reusable code files were found during this documentation pass. `LICENSE-CODE` has been added so future code examples, utility scripts, data-processing scripts, and reusable code are covered by MIT unless otherwise stated.
+- `ISF-TDF2023`, `HK2012-2018`, `HK-MO2018`, and `Macau2018` are owner-confirmed public TULIP Lab open-data releases.
+- For owner-confirmed public datasets, dataset files and dataset documentation are licensed under CC BY 4.0 unless otherwise stated.
+- Dataset-level provenance, source, citation, DOI, disclaimer, and attribution notes are retained and are not overridden by repository-level licence wording.
+- Code examples, utility scripts, data-processing scripts, and reusable code in this repository are licensed under MIT unless otherwise stated; no reusable code files were found during this documentation pass.
+- GitHub remote default branch is confirmed as `main`; no `master` branch migration issue remains in this audit.

@@ -2,23 +2,24 @@
   <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
 </p>
 
-# `Macau2018`
----
+# Macau2018
 
 | Field | Value |
 | --- | --- |
 | Title | Macau2018 |
 | Type | Dataset |
 | Language | English & Chinese (Simplified) |
-| License | CC BY 4.0 unless otherwise stated |
+| Licence | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
-| Date Published | 2019-01-31  |
-| Date Updated |  2019-01-31 |
+| Date Published | 2019-01-31 |
+| Date Updated | 2019-01-31 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/main/Macau2018|
-| Publisher |[TULIP Lab](http://www.tulip.academy/) |
-| Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
+| URL | https://github.com/tulip-lab/open-data/tree/main/Macau2018 |
+| Publisher | [TULIP Lab](http://www.tulip.academy/) |
+| Point of Contact | [Prof. Gang Li](https://github.com/tuliplab) |
+
+## Overview
 
 This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` from January 2011 to August 2018. There are 259 features in total:
 
@@ -29,41 +30,59 @@ This dataset `Macau2018` contains the `monthly tourist arrival volumes` and `Sea
 
 The mainland China and global monthly  tourist arrival volumes for Macau were collected from [Statistics and Census Services（DSEC）](https://www.dsec.gov.mo/Statistic.aspx?NodeGuid=251baebb-6e5b-4452-8ad1-7768eafc99ed) of the Macau government, while those Search Intensity Indices (SII) data were collected from [Google Trends](https://trends.google.com) and [Baidu Index](https://zhishu.baidu.com) using a developed tool (to be released at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code)).
 
-## Public release and attribution
+## Files
 
-This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
+- `Macau2018.csv`
+
+Column descriptions are retained in the data dictionary below.
+
+## Source and provenance
+
+This dataset is an owner-confirmed public TULIP Lab open-data release. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
 
 Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
 
----
 ## Citation
----
 
-If you use it for a scientific publication, please include a reference to this paper. 
+If you use this dataset for a scientific publication, please include a reference to the following paper.
 
-* Rob Law, Gang Li, Davis Fong, Xin Han (2019). [Tourism Demand Forecasting: A Deep Learning Approach](https://doi.org/10.1016/j.annals.2019.01.014). **Annals of Tourism Research**, Vol 75, March 2019, Page 410-423.
+> Rob Law, Gang Li, Davis Fong, Xin Han (2019). [*Tourism Demand Forecasting: A Deep Learning Approach*](https://doi.org/10.1016/j.annals.2019.01.014). *Annals of Tourism Research*, Vol 75, March 2019, Page 410-423.
 
 `BibTeX` information:
 
-    @article{LLFHDeep2019,
-    title = {Tourism Demand Forecasting: A Deep Learning Approach},
-    volume = {75},
-    doi = {10.1016/j.annals.2019.01.014},
-    journal = {Annals of Tourism Research},
-    author = {Law, Rob and Li, Gang and Fong, Davis Ka Chio and Han, Xin},
-    month = mar,
-    year = {2019},
-    keywords = {Big data analytics, Deep Learning, Search query data,Tourism Demand Forecast},
-    pages = {410--423},
-    }
+```bibtex
+@article{LLFHDeep2019,
+  title = {Tourism Demand Forecasting: A Deep Learning Approach},
+  volume = {75},
+  doi = {10.1016/j.annals.2019.01.014},
+  journal = {Annals of Tourism Research},
+  author = {Law, Rob and Li, Gang and Fong, Davis Ka Chio and Han, Xin},
+  month = mar,
+  year = {2019},
+  keywords = {Big data analytics, Deep Learning, Search query data, Tourism Demand Forecast},
+  pages = {410--423}
+}
+```
 
-The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
+## Licence and attribution
+
+Dataset files and dataset documentation are licensed under CC BY 4.0 unless otherwise stated. Dataset-level provenance, source, citation, and DOI notes remain part of the attribution record and are not overridden by repository-level licence wording.
+
+Suggested attribution:
+
+> TULIP Lab. *TULIP Lab Open Data Repository*. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Law, Li, Fong, and Han (2019).
+
+## Related code
+
+The related source code for the paper can be found in the TULIP Lab Open Code Repository:
 
 * [DLM](https://github.com/tulip-lab/open-code/tree/main/DLM): A Deep Learning Package for Tourism Demand Forecasting
 
----
-### Data Description
----
+## Notes
+
+Dataset-level source notes identify DSEC, Google Trends, and Baidu Index as source systems for the documented series.
+
+## Data dictionary
 
 
 The following tables show all features in Macau2018 Dataset.
@@ -214,6 +233,3 @@ The following tables show all features in Macau2018 Dataset.
 | 235 | 澳门天气        | non-null    | int64     | 258 | 香港赌场         | non-null    | int64     |
 | 236 | 澳门威尼斯人    | non-null    | int64     | 259 | 香港酒店         | non-null    | int64     |
 | 237 | 澳门币          | non-null    | int64     |     |                  |             |           |
-
-
----
