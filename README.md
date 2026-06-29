@@ -1,8 +1,8 @@
 # TULIP Lab Open Data Repository
 
 ---
-- All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
-- All code and scripts in this repository are licensed under the MIT License, unless otherwise stated.
+- Datasets and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
+- Code examples, utility scripts, data-processing scripts, and reusable code are licensed under the MIT License, unless otherwise stated.
 - Point of Contact: [Prof. Gang Li](https://github.com/tuliplab) 
 
 Prepared by [TULIP Lab](https://www.tulip.academy), Australia
@@ -29,11 +29,11 @@ Prepared by [TULIP Lab](https://www.tulip.academy), Australia
 
 Datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
 Code examples, utility scripts, data-processing scripts, and reusable code are licensed under the MIT License unless otherwise stated.
-Some datasets may include or be derived from third-party public sources. Users must check dataset-level source, attribution, and provenance notes before use.
+Dataset-level README or source notes provide provenance, attribution, and citation guidance where applicable.
 Suggested attribution:
 TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
 
-Dataset-specific source/provenance notes may include additional attribution requirements or restrictions. The repository-level licence does not override more restrictive or specific third-party source terms.
+Dataset-specific source/provenance notes may include additional attribution requirements or restrictions. This public release does not remove any dataset-specific attribution requirement already documented, and the repository-level licence does not override more restrictive or specific third-party source terms.
 
 ## Citation
 

@@ -18,6 +18,12 @@
 
 The dataset `MO-2018` and `HK-2018` contain the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` and `HongKong` from January 2011 to August 2018.
 
+## Public release and attribution
+
+This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
+
+Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
+
 ---
 ### Citations
 ---

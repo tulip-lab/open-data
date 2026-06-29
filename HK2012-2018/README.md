@@ -26,7 +26,7 @@ The dataset `HK2012-2018` contain the `monthly Hong Kong tourist arrival volumes
 - Licence: Inherits the repository-level open-data licence. Dataset values and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
 - Recommended attribution: TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, and Law (2020) using the citation below.
 - DOI/citation: `10.1177/0047287520919522`.
-- Human-review note: Review original source/provenance details before redistribution if stricter source attribution is required.
+- Public-release confirmation: This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
 - Intended use: This dataset is intended for teaching, learning, assessment, and research use, subject to attribution and dataset-specific source notes.
 - Raw GitHub URLs for the main student-facing data files:
   - https://raw.githubusercontent.com/tulip-lab/open-data/main/HK2012-2018/Australia.csv
