@@ -4,8 +4,6 @@
 
 # ISF-TDF2023
 
-## Dataset Information
-
 | Field | Value |
 | --- | --- |
 | **Title** | ISF-TDF2023 |
@@ -23,11 +21,17 @@
 
 ## Overview
 
-The **ISF-TDF2023** dataset contains monthly Chinese outbound tourism demand data for **20 selected destination countries/regions**. The dataset was developed for the **Tourism Demand Forecasting Competition 2024** hosed by `The 45th International Symposium on Forecasting Conference` and includes historical observations together with designated validation and evaluation periods extending to **July 2024**.
+The **ISF-TDF2023** dataset contains monthly Chinese outbound tourism demand data for **20 selected destination countries/regions**. The dataset was developed for the **Tourism Demand Forecasting Competition 2024** hosted by `The 45th International Symposium on Forecasting Conference` and includes historical observations together with designated validation and evaluation periods extending to **July 2024**.
 
 The data span multiple tourism market regimes, including the pre-pandemic period, the COVID-19 disruption period, and the post-pandemic recovery phase, providing a challenging benchmark for tourism demand forecasting under significant structural changes and demand shocks.
 
-## SIT742 Release Notes
+## Files
+
+- `ISF-TDF2023.csv`
+
+The file contains monthly tourism demand series for 20 selected destination countries/regions. Public period definitions and evaluation-method notes are retained below.
+
+## Source and provenance
 
 - Dataset name: `ISF-TDF2023`.
 - Description: Monthly Chinese outbound tourism demand series for 20 selected destination countries/regions, with historical, validation, and evaluation periods extending to July 2024.
@@ -35,11 +39,11 @@ The data span multiple tourism market regimes, including the pre-pandemic period
 - Licence: Inherits the repository-level open-data licence. Dataset values and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
 - Recommended attribution: TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Song, Li, Law, and Li (2026) using the citation below.
 - DOI/citation: `10.1016/j.annals.2026.104144`.
-- Public-release confirmation: This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset-level provenance, source-owner disclaimer, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
-- Intended use: This dataset is intended for teaching, learning, assessment, and research use, subject to attribution and dataset-specific source notes.
-- Raw GitHub URL for the main student-facing data file: https://raw.githubusercontent.com/tulip-lab/open-data/main/ISF-TDF2023/ISF-TDF2023.csv
+- Public-release confirmation: This dataset is an owner-confirmed public TULIP Lab open-data release. Dataset-level provenance, source-owner disclaimer, citation, and DOI notes are retained for attribution and reproducibility; this confirmation does not remove any dataset-specific attribution requirement already documented.
+- Intended use: This dataset is intended for educational, research, and benchmarking use, subject to attribution and dataset-specific source notes.
+- Raw GitHub URL for the public data file: https://raw.githubusercontent.com/tulip-lab/open-data/main/ISF-TDF2023/ISF-TDF2023.csv
 
-## Data Structure
+## Data structure
 
 Each destination country/region is represented by containing a continuous monthly tourism demand series. The complete timeline is divided into the following periods:
 
@@ -49,7 +53,7 @@ Each destination country/region is represented by containing a continuous monthl
 | March 2020 - June 2022 | COVID-19 disruption period |
 | July 2022 - February 2023 | Early recovery period |
 | March 2023 - July 2023 | Validation period |
-| August 2023 - July 2024 | Evaluation period (On-hold, for assessment only) |
+| August 2023 - July 2024 | Evaluation period |
 
 ### Historical Period
 
@@ -59,7 +63,7 @@ The historical observations include:
 - **COVID-19 disruption period:** March 2020 to June 2022
 - **Early recovery period:** July 2022 to February 2023
 
-These periods capture substantial structural changes in international tourism demand and provide valuable information for model development. Some country has missing values and some imputation or processing is required.
+These periods capture substantial structural changes in international tourism demand and provide valuable information for model development. Some countries have missing values, and some imputation or processing is required.
 
 ### Validation Period
 
@@ -72,10 +76,10 @@ The period from **March 2023 to July 2023** serves as the **validation period**.
 
 ### Evaluation Period
 
-The period from **August 2023 to July 2024** serves as the **official evaluation period** of the competition. Forecast accuracy during this horizon is used for the final assessment and ranking of forecasting models.
+The period from **August 2023 to July 2024** serves as the **official evaluation period** of the competition. Forecast accuracy during this horizon is used for public comparison and ranking of forecasting models.
 
 
-## ISF-TDF2023 Evaluation Metric
+## Evaluation metric
 
 Forecasting performance in the **ISF-TDF2023** dataset is evaluated using the **Mean Absolute Scaled Error (MASE)**, a scale-independent forecasting accuracy measure that enables fair comparisons across destinations with substantially different tourism demand volumes.
 
@@ -104,10 +108,10 @@ The denominator corresponds to the mean absolute error of a **seasonal naïve be
 | MASE Value | Interpretation |
 |------------|----------------|
 | MASE < 1 | Forecasting model performs better than the seasonal naïve benchmark |
-| MASE = 1 | Forecasting model performs similarly to the benchmark (equivalent to `Pass`) |
+| MASE = 1 | Forecasting model performs similarly to the seasonal naive benchmark |
 | MASE > 1 | Forecasting model performs worse than the benchmark |
 
-### Competition Ranking
+### Competition ranking
 
 For the **ISF-TDF2023** dataset, model rankings are determined based on the **average MASE** computed over the **evaluation period (August 2023 - July 2024)** across all destination series.
 
@@ -123,30 +127,47 @@ MASE is adopted as the official evaluation metric because it:
 - Is widely used in forecasting competitions and tourism demand forecasting research;
 - Is particularly suitable for datasets containing structural breaks and post-pandemic recovery dynamics.
 
-## Notes
+## Benchmark notes
 
 The dataset intentionally covers multiple tourism market regimes, including pre-pandemic, pandemic, recovery, validation, and evaluation periods. These regime shifts create substantial forecasting challenges and provide a realistic benchmark for assessing model robustness, adaptability, and generalization performance.
 
 ## Citation
 
-If you use this dataset in academic research, please cite the corresponding `ISF-TDF2023` dataset and associated publications from [TULIP Lab](https://www.tulip.academy/publication/bi/).
+If you use this dataset for a scientific publication, please include a reference to the following paper.
 
 * Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.annals.2026.104144). **Annals of Tourism Research**, Vol 118, Article 104144, May 2026.
 
 
 `BibTeX` information:
 
-    @article{zhang2026imputation,
-    title={Imputation recovery tourism demand forecasting},
-    author={Zhang, Yishuo and Song, Baobao and Li, Xin and Law, Rob and Li, Gang},
-    journal={Annals of Tourism Research},
-    volume={118},
-    pages={104144},
-    year={2026},
-    doi={10.1016/j.annals.2026.104144},
-    publisher={Elsevier}
-    }
+```bibtex
+@article{zhang2026imputation,
+  title = {Imputation recovery tourism demand forecasting},
+  author = {Zhang, Yishuo and Song, Baobao and Li, Xin and Law, Rob and Li, Gang},
+  journal = {Annals of Tourism Research},
+  volume = {118},
+  pages = {104144},
+  year = {2026},
+  doi = {10.1016/j.annals.2026.104144},
+  publisher = {Elsevier}
+}
+```
 
+## Licence and attribution
+
+Dataset files and dataset documentation are licensed under CC BY 4.0 unless otherwise stated. Dataset-level provenance, source-owner disclaimer, citation, and DOI notes remain part of the attribution record and are not overridden by repository-level licence wording.
+
+Suggested attribution:
+
+TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Song, Li, Law, and Li (2026).
+
+## Related code
+
+No single related open-code subproject is documented in this dataset README.
+
+## Notes
+
+Dataset-level provenance, source-owner disclaimer, citation, DOI, and public evaluation-method notes are retained for attribution and reproducibility.
 
 ## Disclaimer
 

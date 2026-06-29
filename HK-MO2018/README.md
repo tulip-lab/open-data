@@ -2,8 +2,7 @@
   <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
 </p>
 
-# `HK-MO2018`
----
+# HK-MO2018
 
 | Field | Value |
 | --- | --- |
@@ -13,50 +12,71 @@
 | License | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
-| Date Published | 2020-02-26  |
-| Date Updated |  2020-02-26 |
+| Date Published | 2020-02-26 |
+| Date Updated | 2020-02-26 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/main/HK-MO2018|
-| Publisher |[TULIP Lab](http://www.tulip.academy/) |
-| Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
+| URL | https://github.com/tulip-lab/open-data/tree/main/HK-MO2018 |
+| Publisher | [TULIP Lab](http://www.tulip.academy/) |
+| Point of Contact | [Prof. Gang Li](https://github.com/tuliplab) |
+
+## Overview
 
 The dataset `MO-2018` and `HK-2018` contain the `monthly tourist arrival volumes` and `Search Intensity Indices` (SII) data of `Macau` and `HongKong` from January 2011 to August 2018.
 
-## Public release and attribution
+## Files
 
-This dataset is publicly released through the TULIP Lab Open Data Repository for current SIT742 use. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
+- `HK-2018.csv`
+- `MO-2018.csv`
+
+Column descriptions are retained in the data dictionary below.
+
+## Source and provenance
+
+This dataset is an owner-confirmed public TULIP Lab open-data release. Dataset files and dataset documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise stated.
 
 Users should cite the TULIP Lab Open Data Repository and the dataset-specific paper/DOI listed below. Dataset-level provenance, source, citation, and DOI notes are retained for attribution and reproducibility; this public-release confirmation does not remove any dataset-specific attribution requirement already documented.
 
----
 ## Citation
----
 
-If you use it for a scientific publication, please include a reference to this paper.
+If you use this dataset for a scientific publication, please include a reference to the following paper.
 
 * Yishuo Zhang, Gang Li, Birgit Muskat, Rob Law and Yating Yang (2020). [Group Pooling For Deep Tourism Demand Forecasting](https://doi.org/10.1016/j.annals.2020.102899). **Annals of Tourism Research**, Vol 82, May 2020
 
 
 `BibTeX` information:
 
-    @article{ZLMLY2020,
-    title = {Group Pooling For Deep Tourism Demand Forecasting},
-    volume = {82},
-    doi = {10.1016/j.annals.2020.102899},
-    journal = {Annals of Tourism Research},
-    author = {Zhang, Yishuo and Li, Gang and Muskat, Birgit and Law, Rob and Yang, Yating},
-    month = may,
-    year = {2020},
-    keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}, 
-    }
+```bibtex
+@article{ZLMLY2020,
+  title = {Group Pooling For Deep Tourism Demand Forecasting},
+  volume = {82},
+  doi = {10.1016/j.annals.2020.102899},
+  journal = {Annals of Tourism Research},
+  author = {Zhang, Yishuo and Li, Gang and Muskat, Birgit and Law, Rob and Yang, Yating},
+  month = may,
+  year = {2020},
+  keywords = {tourism demand forecasting, AI-based methodology, group-pooling method, deep-learning model, tourism demand similarity, Asia Pacific travel patterns}
+}
+```
 
-The related source code for above paper can be found at [TULIP Lab Open Code Repository](https://github.com/tulip-lab/open-code):
+## Licence and attribution
+
+Dataset files and dataset documentation are licensed under CC BY 4.0 unless otherwise stated. Dataset-level provenance, source, citation, and DOI notes remain part of the attribution record and are not overridden by repository-level licence wording.
+
+Suggested attribution:
+
+TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0. Also cite Zhang, Li, Muskat, Law, and Yang (2020).
+
+## Related code
+
+The related source code for the paper can be found in the TULIP Lab Open Code Repository:
 
 * [`GP-DLM`](https://github.com/tulip-lab/open-code/tree/main/GP-DLM): A Deep Learning Package for Group Pooling Tourism Demand Forecasting
 
----
-### Data Description
----
+## Notes
+
+Dataset-level provenance, citation, and DOI notes are retained for attribution and reproducibility.
+
+## Data dictionary
 
 * The first row is the field name of each column in this dataset.
 * The following tables show descriptions for each column in `HK-2018` and `MO-2018` Dataset.
@@ -269,6 +289,3 @@ The related source code for above paper can be found at [TULIP Lab Open Code Rep
 | 97   | flights to macau               | non\-null   | int64     |      |                                   |             |           |
 | 98   | weather in macau               | non\-null   | int64     |      |                                   |             |           |
 | 99   | macau restaurant menu          | non\-null   | int64     |      |                                   |             |           |
-
-
----
