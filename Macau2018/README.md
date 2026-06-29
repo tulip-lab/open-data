@@ -12,7 +12,7 @@
 | Date Published | 2019-01-31  |
 | Date Updated |  2019-01-31 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/Macau2018|
+| URL | https://github.com/tulip-lab/open-data/tree/main/Macau2018|
 | Publisher |[TULIP Lab](http://www.tulip.academy/) |
 | Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
 

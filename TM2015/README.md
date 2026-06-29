@@ -12,7 +12,7 @@
 | Date Published | 2019-10-07  |
 | Date Updated |  2019-10-08 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/TM2015|
+| URL | https://github.com/tulip-lab/open-data/tree/main/TM2015|
 | Publisher |[TULIP Lab](http://www.tulip.academy/) |
 | Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
 

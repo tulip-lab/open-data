@@ -12,7 +12,7 @@
 | Date Published | 2019-06-26  |
 | Date Updated |  2019-06-26 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/Racism2019|
+| URL | https://github.com/tulip-lab/open-data/tree/main/Racism2019|
 | Publisher |[TULIP Lab](http://www.tulip.academy/) |
 | Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
 

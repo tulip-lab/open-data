@@ -12,7 +12,7 @@
 | Date Published | 2020-03-20  |
 | Date Updated |  2020-03-20 |
 | Portal | https://github.com/tulip-lab/open-data |
-| URL | https://github.com/tulip-lab/open-data/tree/master/HK2012-2018|
+| URL | https://github.com/tulip-lab/open-data/tree/main/HK2012-2018|
 | Publisher |[TULIP Lab](http://www.tulip.academy) |
 | Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
 
