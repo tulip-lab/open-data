@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
+</p>
+
 # `Racism2019`
 ---
 
@@ -6,7 +10,7 @@
 | Title | Racism2019 |
 | Type | Dataset |
 | Language | English |
-| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
+| License | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-06-26  |
@@ -20,7 +24,7 @@
 This dataset `Racism2019` contains the `racism`-related reviews collected from the Internet up to February 2019. There are 4554 reviews in total.
 
 ---
-### Citations
+## Citation
 ---
 
 If you use it for a scientific publication, please include a reference to this paper.
@@ -28,15 +32,15 @@ If you use it for a scientific publication, please include a reference to this p
 * Shu Li, Gang Li, Rob Law, and Yin Paradies (2020). [Racism in Tourism Reviews](https://doi.org/10.1016/j.tourman.2020.104100). **Tourism Management**, Vol 80, October 2020.
 
 
-`BibTex` information:
+`BibTeX` information:
 
     @article{LLLP2020,
     title = {Racism in Tourism Reviews},
     volume = {80},
-    doi = {https://doi.org/10.1016/j.tourman.2020.104100},
+    doi = {10.1016/j.tourman.2020.104100},
     journal = {Tourism Management},
     author = {Li, Shu and Li, Gang and Law, Rob and Paradies, Yin},
-    month = October,
+    month = oct,
     year = {2020},
     keywords = {Tourism, Racism, Review text processing, Sentiment analysis},
     pages = {104100},

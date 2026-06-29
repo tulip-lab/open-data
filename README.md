@@ -1,8 +1,8 @@
+# TULIP Lab Open Data
+
 <p align="center">
   <img src="assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
 </p>
-
-# TULIP Lab Open Data Repository
 
 The TULIP Lab Open Data Repository hosts public datasets and dataset documentation released by TULIP Lab. It is paired with the TULIP Lab Open Code Repository, which hosts related research software, examples, and scripts.
 
@@ -13,6 +13,10 @@ Prepared by [TULIP Lab](https://www.tulip.academy), Australia
 - 2020-2026 maintainers: [Chris Zhang](https://github.com/chriszhangpodo)
 - 2020 maintainers: [Shu Li](https://github.com/lishusmile), [Chris Zhang](https://github.com/chriszhangpodo)
 - 2019 maintainers: [Xin Han](https://github.com/xhan97), [Shu Li](https://github.com/lishusmile)
+
+## Repository scope
+
+This repository is for public datasets and dataset documentation released by TULIP Lab. It may include or reference small code examples, data-processing scripts, or related research code, but reusable software is licensed separately from datasets and dataset documentation.
 
 ## Datasets
 
@@ -60,3 +64,7 @@ Dataset-level README or source notes provide provenance, attribution, and citati
 Suggested attribution:
 
 TULIP Lab. TULIP Lab Open Data Repository. https://github.com/tulip-lab/open-data. Licensed under CC BY 4.0.
+
+## Human review / known documentation issues
+
+Known follow-up items are tracked in [HUMAN_REVIEW.md](HUMAN_REVIEW.md). Documentation audit details are recorded in [DOCS_AUDIT.md](DOCS_AUDIT.md).

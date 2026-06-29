@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/tulip-wordmark.png" alt="TULIP Lab" width="900">
+</p>
+
 # `TM2015`
 ---
 
@@ -6,7 +10,7 @@
 | Title | TM2015 |
 | Type | Dataset |
 | Language | English  |
-| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
+| License | CC BY 4.0 unless otherwise stated |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-10-07  |
@@ -21,7 +25,7 @@ This dataset `TM2015` is in the Matlab matrix format, and it contains the `matri
 * Each cell in publication list contains the publication indicators of a researcher. 
 
 ---
-### Citations
+## Citation
 ---
 
 If you use it for a scientific publication, please include a reference to this paper. 
@@ -29,19 +33,18 @@ If you use it for a scientific publication, please include a reference to this p
 * Wei Fan, Gang Li, and Rob Law (2020). [Analyzing Co-authoring Communities of Tourism Research Collaboration](https://doi.org/10.1016/j.tmp.2019.100607). **Tourism Management Perspectives**, Vol 33, January 2020.
 
 
-`BibTex` information:
+`BibTeX` information:
 
     @article{FANCollaboration2020,
     title = {Analyzing co-authoring communities of tourism research collaboration},
     volume = {33},
-    doi = {https://doi.org/10.1016/j.tmp.2019.100607},
+    doi = {10.1016/j.tmp.2019.100607},
     journal = {Tourism Management Perspectives},
     author = {Fan, Wei and Li, Gang and Law, Rob},
-    month = January,
+    month = jan,
     year = {2020},
     keywords = {Research collaboration, Network analysis, Co-authoring community, Centrality measure, Tourism research},
     pages = {100607},
     }
-
 
 
