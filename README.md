@@ -1,7 +1,7 @@
 # TULIP Lab Open Data  
 
 ---
-- Open datasets for research purpose, you are free to use, change and distribute this package with the `README.md` information unchanged.
+- All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated.
 - Point of Contact: [Prof. Gang Li](https://github.com/tuliplab) 
 
 Prepared by [TULIP Lab](https://www.tulip.academy), Australia

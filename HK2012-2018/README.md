@@ -6,7 +6,7 @@
 | Title | HK2012-2018 |
 | Type | Dataset |
 | Language | English |
-| License |   |
+| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2020-03-20  |

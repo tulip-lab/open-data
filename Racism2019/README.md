@@ -6,7 +6,7 @@
 | Title | Racism2019 |
 | Type | Dataset |
 | Language | English |
-| License |   |
+| License | All datasets and dataset documentation in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), unless otherwise stated. |
 | Data Status | Static |
 | Update Frequency | NO |
 | Date Published | 2019-06-26  |
@@ -14,7 +14,7 @@
 | Portal | https://github.com/tulip-lab/open-data |
 | URL | https://github.com/tulip-lab/open-data/tree/master/Racism2019|
 | Publisher |[TULIP Lab](http://www.tulip.academy/) |
-| Point of Contact |[A/Prof. Gang Li](https://github.com/tuliplab) |
+| Point of Contact |[Prof. Gang Li](https://github.com/tuliplab) |
 
 
 This dataset `Racism2019` contains the `racism`-related reviews collected from the Internet up to February 2019. There are 4554 reviews in total.
