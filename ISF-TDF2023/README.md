@@ -13,7 +13,7 @@
 | **Data Status** | Static |
 | **Update Frequency** | No |
 | **Date Published** | 2026-05-20 |
-| **Date Updated** | 2026-06-02 |
+| **Date Updated** | 2026-08-07 |
 | **Portal** | https://github.com/tulip-lab/open-data |
 | **URL** | https://github.com/tulip-lab/open-data/tree/main/ISF-TDF2023 |
 | **Publisher** | TULIP Lab |
@@ -27,9 +27,22 @@ The data span multiple tourism market regimes, including the pre-pandemic period
 
 ## Files
 
-- `ISF-TDF2023.csv`
+- `ISF-TDF2023.csv`: Public monthly tourism demand series. Values for the
+  official evaluation period are withheld.
+- `ISF-TDF202308-202407.zip`: Encrypted archive containing the official
+  reference values (standard answers) for August 2023 to July 2024.
 
-The file contains monthly tourism demand series for 20 selected destination countries/regions. Public period definitions and evaluation-method notes are retained below.
+The public CSV contains monthly tourism demand series for 20 selected
+destination countries/regions. Public period definitions and evaluation-method
+notes are retained below.
+
+### Encrypted evaluation data
+
+The official reference values for the evaluation period from **August 2023 to
+July 2024** are distributed in the encrypted archive
+`ISF-TDF202308-202407.zip`. If you need to use these data, please contact the
+**Point of Contact** listed in the dataset metadata table above for access
+information.
 
 ## Source and provenance
 
